@@ -9275,7 +9275,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <translation type="unfinished">You have pending parameter updates to a vehicle. If you close you will lose changes. Are you sure you want to close?</translation>
     </message>
     <message>
-        <location filename="../src/ui/MainRootWindow.qml" line="420"/>
+        <location filename="../src/ui/MainRootWindow.qml" line="351"/>
+        <source>Select Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/ui/MainRootWindow.qml" line="419"/>
         <source>%1 Version</source>
         <translation>%1 - версия</translation>
     </message>
