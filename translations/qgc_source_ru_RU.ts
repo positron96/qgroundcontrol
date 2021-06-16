@@ -9277,7 +9277,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="351"/>
         <source>Select Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="419"/>
