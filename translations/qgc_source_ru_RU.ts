@@ -6607,12 +6607,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/FlightDisplay/FlightDisplayViewVideo.qml" line="47"/>
         <source>WAITING FOR VIDEO</source>
-        <translation type="unfinished">WAITING FOR VIDEO</translation>
+        <translation>ОЖИДАНИЕ ВИДЕО</translation>
     </message>
     <message>
         <location filename="../src/FlightDisplay/FlightDisplayViewVideo.qml" line="47"/>
         <source>VIDEO DISABLED</source>
-        <translation type="unfinished">VIDEO DISABLED</translation>
+        <translation>ВИДЕО ОТКЛЮЧЕНО</translation>
     </message>
 </context>
 <context>
@@ -7666,17 +7666,17 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="40"/>
         <source>Return</source>
-        <translation type="unfinished">Return</translation>
+        <translation>Возврат</translation>
     </message>
     <message>
         <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="41"/>
         <source>Takeoff</source>
-        <translation type="unfinished">Takeoff</translation>
+        <translation>Взлет</translation>
     </message>
     <message>
         <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="42"/>
         <source>Land</source>
-        <translation type="unfinished">Land</translation>
+        <translation>Посадка</translation>
     </message>
     <message>
         <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="43"/>
@@ -9255,19 +9255,19 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/ui/MainRootWindow.qml" line="156"/>
         <location filename="../src/ui/MainRootWindow.qml" line="382"/>
         <source>Analyze Tools</source>
-        <translation type="unfinished">Analyze Tools</translation>
+        <translation>Инструменты для анализа</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="160"/>
         <location filename="../src/ui/MainRootWindow.qml" line="367"/>
         <source>Vehicle Setup</source>
-        <translation type="unfinished">Vehicle Setup</translation>
+        <translation>Настройки устройства</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="164"/>
         <location filename="../src/ui/MainRootWindow.qml" line="398"/>
         <source>Application Settings</source>
-        <translation type="unfinished">Application Settings</translation>
+        <translation>Настройки приложения</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="280"/>
@@ -9277,7 +9277,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="420"/>
         <source>%1 Version</source>
-        <translation type="unfinished">%1 Version</translation>
+        <translation>%1 - версия</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="457"/>
@@ -9287,7 +9287,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="521"/>
         <source>Back</source>
-        <translation type="unfinished">Back</translation>
+        <translation>Назад</translation>
     </message>
 </context>
 <context>
@@ -13720,7 +13720,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
         <location filename="../src/QmlControls/QGCPopupDialogContainer.qml" line="139"/>
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/QGCPopupDialogContainer.qml" line="142"/>
