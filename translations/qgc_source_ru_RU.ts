@@ -6986,47 +6986,47 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="407"/>
         <source>Units</source>
-        <translation type="unfinished">Units</translation>
+        <translation>Единицы измерения</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
         <source>Area</source>
-        <translation type="unfinished">Area</translation>
+        <translation>Площадь</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
         <source>Speed</source>
-        <translation type="unfinished">Speed</translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
         <source>Temperature</source>
-        <translation type="unfinished">Temperature</translation>
+        <translation>Температура</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="444"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Miscellaneous</translation>
+        <translation>Прочее</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="468"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>Язык (Language)</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="479"/>
         <source>Color Scheme</source>
-        <translation type="unfinished">Color Scheme</translation>
+        <translation>Цветовая схема</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="490"/>
         <source>Map Provider</source>
-        <translation type="unfinished">Map Provider</translation>
+        <translation>Источник карт</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="510"/>
         <source>Map Type</source>
-        <translation type="unfinished">Map Type</translation>
+        <translation>Тип карт</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="529"/>
@@ -7036,94 +7036,94 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="611"/>
         <source>Mute all audio output</source>
-        <translation type="unfinished">Mute all audio output</translation>
+        <translation>Выключить звук</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="626"/>
         <source>Clear all settings on next start</source>
-        <translation type="unfinished">Clear all settings on next start</translation>
+        <translation>Очистить настройки при следующем старте</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="636"/>
         <source>Clear Settings</source>
-        <translation type="unfinished">Clear Settings</translation>
+        <translation>Очистить настройки</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="637"/>
         <source>All saved settings will be reset the next time you start %1. Is this really what you want?</source>
-        <translation type="unfinished">All saved settings will be reset the next time you start %1. Is this really what you want?</translation>
+        <translation>Все сохраненные настройки будут удалены при следующем старте %1. Вы уверены?</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="661"/>
         <source>Application Load/Save Path</source>
-        <translation type="unfinished">Application Load/Save Path</translation>
+        <translation>Пусть к настройкам приложения</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="665"/>
         <source>&lt;not set&gt;</source>
-        <translation type="unfinished">&lt;not set&gt;</translation>
+        <translation>&lt;не задан&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="668"/>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="1071"/>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="1093"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>Выбрать</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="672"/>
         <source>Choose the location to save/load files</source>
-        <translation type="unfinished">Choose the location to save/load files</translation>
+        <translation>Выберите расположение для сохранения/загрузки файлов</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="685"/>
         <source>Telemetry Logs from Vehicle</source>
-        <translation type="unfinished">Telemetry Logs from Vehicle</translation>
+        <translation>Журнал телеметрии с устройства</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="703"/>
         <source>Save log after each flight</source>
-        <translation type="unfinished">Save log after each flight</translation>
+        <translation>Сохранять журнал после каждого полета</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="711"/>
         <source>Save logs even if vehicle was not armed</source>
-        <translation type="unfinished">Save logs even if vehicle was not armed</translation>
+        <translation>Сохранять журнал, даже если устройство не было в полете</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="84"/>
         <source>Fly View</source>
-        <translation type="unfinished">Fly View</translation>
+        <translation>Режим полета</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="145"/>
         <source>Auto-Center Throttle</source>
-        <translation type="unfinished">Auto-Center Throttle</translation>
+        <translation>Возвращать ручку газа в центр</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="177"/>
         <source>Show simple camera controls (DIGICAM_CONTROL)</source>
-        <translation type="unfinished">Show simple camera controls (DIGICAM_CONTROL)</translation>
+        <translation>Показывать органы управления камерой (DIGICAM_CONTROL)</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="188"/>
         <source>Guided Command Settings</source>
-        <translation type="unfinished">Guided Command Settings</translation>
+        <translation>Настройки автоматического полета</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="194"/>
         <source>Minimum Altitude</source>
-        <translation type="unfinished">Minimum Altitude</translation>
+        <translation>Минимальная высота</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="205"/>
         <source>Maximum Altitude</source>
-        <translation type="unfinished">Maximum Altitude</translation>
+        <translation>Максимальная высота</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="539"/>
         <source>UI Scaling</source>
-        <translation type="unfinished">UI Scaling</translation>
+        <translation>Масштаб интерфейса</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="604"/>
@@ -7133,27 +7133,27 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="618"/>
         <source>Check for Internet connection</source>
-        <translation type="unfinished">Check for Internet connection</translation>
+        <translation>Проверять наличие соединения с сетью Интернет</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="719"/>
         <source>Save CSV log of telemetry data</source>
-        <translation type="unfinished">Save CSV log of telemetry data</translation>
+        <translation>Сохранять журнал телеметрии в формате CSV</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="103"/>
         <source>Use Preflight Checklist</source>
-        <translation type="unfinished">Use Preflight Checklist</translation>
+        <translation>Включить список предполетной подготовки</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="111"/>
         <source>Enforce Preflight Checklist</source>
-        <translation type="unfinished">Enforce Preflight Checklist</translation>
+        <translation>Список предполетной подготовки является необходимым</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="120"/>
         <source>Keep Map Centered On Vehicle</source>
-        <translation type="unfinished">Keep Map Centered On Vehicle</translation>
+        <translation>Центрировать карту на устройстве</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="128"/>
@@ -7163,62 +7163,62 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="139"/>
         <source>Virtual Joystick</source>
-        <translation type="unfinished">Virtual Joystick</translation>
+        <translation>Виртуальный джойстик</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="153"/>
         <source>Use Vertical Instrument Panel</source>
-        <translation type="unfinished">Use Vertical Instrument Panel</translation>
+        <translation>Использовать вертикальную панель инструментов</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="161"/>
         <source>Show additional heading indicators on Compass</source>
-        <translation type="unfinished">Show additional heading indicators on Compass</translation>
+        <translation>Показывать на компасе дополнительные курсовые индикаторы</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="169"/>
         <source>Lock Compass Nose-Up</source>
-        <translation type="unfinished">Lock Compass Nose-Up</translation>
+        <translation>Не вращать компас</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="216"/>
         <source>Go To Location Max Distance</source>
-        <translation type="unfinished">Go To Location Max Distance</translation>
+        <translation>Максимальное расстояние до точки</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="233"/>
         <source>Video Settings</source>
-        <translation type="unfinished">Video Settings</translation>
+        <translation>Настройки видео</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="240"/>
         <source>Source</source>
-        <translation type="unfinished">Source</translation>
+        <translation>Источник</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="296"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>Формат файла</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="318"/>
         <source>Video decode priority</source>
-        <translation type="unfinished">Video decode priority</translation>
+        <translation>Приоритет декодера видео</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="345"/>
         <source>Auto-Delete Saved Recordings</source>
-        <translation type="unfinished">Auto-Delete Saved Recordings</translation>
+        <translation>Автоматически удалять записи</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="356"/>
         <source>Plan View</source>
-        <translation type="unfinished">Plan View</translation>
+        <translation>Режим планирования</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="378"/>
         <source>Default Mission Altitude</source>
-        <translation type="unfinished">Default Mission Altitude</translation>
+        <translation>Высота полета для миссий (по умолчанию)</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="384"/>
@@ -7238,63 +7238,63 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
         <source>Horizontal Distance</source>
-        <translation type="unfinished">Horizontal Distance</translation>
+        <translation>Расстояние по горизонтали</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
         <source>Vertical Distance</source>
-        <translation type="unfinished">Vertical Distance</translation>
+        <translation>Расстояние по вертикали</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="731"/>
         <source>AutoConnect to the following devices</source>
-        <translation type="unfinished">AutoConnect to the following devices</translation>
+        <translation>Автоматически подключаться к следующим устройствам</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <source>Pixhawk</source>
-        <translation type="unfinished">Pixhawk</translation>
+        <translation>Pixhawk</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <source>SiK Radio</source>
-        <translation type="unfinished">SiK Radio</translation>
+        <translation>SiK Radio</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <source>PX4 Flow</source>
-        <translation type="unfinished">PX4 Flow</translation>
+        <translation>PX4 Flow</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <source>LibrePilot</source>
-        <translation type="unfinished">LibrePilot</translation>
+        <translation>LibrePilot</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <source>UDP</source>
-        <translation type="unfinished">UDP</translation>
+        <translation>UDP</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="761"/>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="846"/>
         <source>RTK GPS</source>
-        <translation type="unfinished">RTK GPS</translation>
+        <translation>RTK GPS</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="780"/>
         <source>NMEA GPS Device</source>
-        <translation type="unfinished">NMEA GPS Device</translation>
+        <translation>Источник данных NMEA GPS</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="811"/>
         <source>NMEA GPS Baudrate</source>
-        <translation type="unfinished">NMEA GPS Baudrate</translation>
+        <translation>Скорость потока данных NMEA GPS</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="831"/>
         <source>NMEA stream UDP port</source>
-        <translation type="unfinished">NMEA stream UDP port</translation>
+        <translation>UDP-порт потока данных NMEA</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="869"/>
@@ -7339,7 +7339,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="285"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished">Aspect Ratio</translation>
+        <translation>Отношение сторон</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="331"/>
@@ -7349,7 +7349,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="338"/>
         <source>Low Latency Mode</source>
-        <translation type="unfinished">Low Latency Mode</translation>
+        <translation>Режим низкой задержки</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="307"/>
@@ -7385,7 +7385,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="1118"/>
         <source>%1 Version</source>
-        <translation type="unfinished">%1 Version</translation>
+        <translation>Версия %1</translation>
     </message>
 </context>
 <context>
