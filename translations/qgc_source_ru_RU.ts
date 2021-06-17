@@ -9244,7 +9244,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="299"/>
         <source>There are still active connections to vehicles. Are you sure you want to exit?</source>
-        <translation type="unfinished">There are still active connections to vehicles. Are you sure you want to exit?</translation>
+        <translation>Имеются активные подключения к устройствам. Вы действительно хотите выйти?</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="263"/>
@@ -9282,12 +9282,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="419"/>
         <source>%1 Version</source>
-        <translation>%1 - версия</translation>
+        <translation>Версия %1</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="457"/>
         <source>Advanced Mode</source>
-        <translation type="unfinished">Advanced Mode</translation>
+        <translation>Расширенный режим</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="521"/>
@@ -11065,17 +11065,17 @@ Is this really what you want?</translation>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="41"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Ручной</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="42"/>
         <source>Acro</source>
-        <translation type="unfinished">Acro</translation>
+        <translation>Акробатический</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="43"/>
         <source>Stabilized</source>
-        <translation type="unfinished">Stabilized</translation>
+        <translation>Стабилизация</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="44"/>
