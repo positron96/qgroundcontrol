@@ -1,4 +1,4 @@
-name: Windows Release
+name: Windows build
 
 on: workflow_dispatch
 
@@ -9,7 +9,6 @@ defaults:
 env:
   SOURCE_DIR:   ${{ github.workspace }}
   QT_VERSION:   5.12.6
-  ARTIFACT:     QGroundControl-archive
 
 jobs:
   build:
@@ -74,8 +73,15 @@ jobs:
               qmake -r ${{ env.SOURCE_DIR }}\qgroundcontrol.pro CONFIG+=DailyBuild
               ${{ runner.temp }}\jom\jom -j2
 
-      - name: Save artifacts
+      - name: Save full bundle
         uses: actions/upload-artifact@master
         with:
-          name: ${{ env.ARTIFACT }}
+          name: Full archive
           path: ${{ runner.temp }}\shadow_build_dir\staging
+
+
+      - name: Save only binary
+        uses: actions/upload-artifact@master
+        with:
+          name: QGroundControl.exe
+          path: ${{ runner.temp }}\shadow_build_dir\staging\QGroundControl.exe
