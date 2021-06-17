@@ -33,16 +33,16 @@ APMSubMode::APMSubMode(uint32_t mode, bool settable) :
     APMCustomMode(mode, settable)
 {
     setEnumToStringMapping({
-        {MANUAL, QObject::tr("Manual")},
-        {STABILIZE, QObject::tr("Stabilize")},
-        {ACRO, QObject::tr("Acro")},
-        {ALT_HOLD,  QObject::tr("Depth Hold")},
-        {AUTO, QObject::tr("Auto")},
-        {GUIDED, QObject::tr("Guided")},
-        {CIRCLE, QObject::tr("Circle")},
-        {SURFACE, QObject::tr("Surface")},
-        {POSHOLD, QObject::tr("Position Hold")},
-        {MOTORDETECTION, QObject::tr("Motor Detection")},
+        {MANUAL, tr("Manual")},
+        {STABILIZE, tr("Stabilize")},
+        {ACRO, tr("Acro")},
+        {ALT_HOLD, tr("Depth Hold")},
+        {AUTO, tr("Auto")},
+        {GUIDED, tr("Guided")},
+        {CIRCLE, tr("Circle")},
+        {SURFACE, tr("Surface")},
+        {POSHOLD, tr("Position Hold")},
+        {MOTORDETECTION, tr("Motor Detection")},
     });
 }
 

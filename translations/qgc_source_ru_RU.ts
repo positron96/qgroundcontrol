@@ -3142,6 +3142,59 @@ propellers on the green thrusters and counter-clockwise propellers on the blue t
     </message>
 </context>
 <context>
+    <name>APMSubMode</name>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="36"/>
+        <source>Manual</source>
+        <translation>Ручной</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="37"/>
+        <source>Stabilize</source>
+        <translation>Стабилизация</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="38"/>
+        <source>Acro</source>
+        <translation>Акро</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="39"/>
+        <source>Depth Hold</source>
+        <translation>Удержание глубины</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="40"/>
+        <source>Auto</source>
+        <translation>По маршруту</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="41"/>
+        <source>Guided</source>
+        <translation>К точке</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="42"/>
+        <source>Circle</source>
+        <translation>По кругу</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="43"/>
+        <source>Surface</source>
+        <translation>Возврат на поверхность</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="44"/>
+        <source>Position Hold</source>
+        <translation>Удержание положения</translation>
+    </message>
+    <message>
+        <location filename="../src/FirmwarePlugin/APM/ArduSubFirmwarePlugin.cc" line="45"/>
+        <source>Motor Detection</source>
+        <translation>Определение моторов</translation>
+    </message>
+</context>
+<context>
     <name>APMSubMotorComponent</name>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="116"/>
