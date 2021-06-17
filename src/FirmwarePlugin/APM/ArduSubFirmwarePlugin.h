@@ -75,6 +75,7 @@ private:
 
 class APMSubMode : public APMCustomMode
 {
+    Q_DECLARE_TR_FUNCTIONS(APMSubMode)
 public:
     enum Mode {
         STABILIZE         = 0,   // Hold level position
