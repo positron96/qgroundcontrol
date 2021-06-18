@@ -16846,6 +16846,106 @@ Confirm change?</translation>
     </message>
 </context>
 <context>
+    <name>UnitsSettings</name>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="26"/>
+        <location filename="../src/Settings/UnitsSettings.cc" line="57"/>
+        <source>Feet</source>
+        <translation>Футы</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="26"/>
+        <location filename="../src/Settings/UnitsSettings.cc" line="57"/>
+        <source>Meters</source>
+        <translation>Метры</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="87"/>
+        <source>SquareFeet</source>
+        <translation>Кв. футы</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="87"/>
+        <source>SquareMeters</source>
+        <translation>Кв. метры</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="88"/>
+        <source>SquareKilometers</source>
+        <translation>Кв. километры</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="88"/>
+        <source>Hectares</source>
+        <translation>Гектары</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="89"/>
+        <source>Acres</source>
+        <translation>Акры</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="89"/>
+        <source>SquareMiles</source>
+        <translation>Кв. мили</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="125"/>
+        <source>Feet/second</source>
+        <translation>Фут/с</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="125"/>
+        <source>Meters/second</source>
+        <translation>М/с</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="126"/>
+        <source>Miles/hour</source>
+        <translation>Миль/час</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="126"/>
+        <source>Kilometers/hour</source>
+        <translation>Км/ч</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="127"/>
+        <source>Knots</source>
+        <translation>Узлы</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="162"/>
+        <source>Celsius</source>
+        <translation>Градусы цельсия</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="162"/>
+        <source>Farenheit</source>
+        <translation>Градусы фаренгейта</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="192"/>
+        <source>Grams</source>
+        <translation>Граммы</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="192"/>
+        <source>Kilograms</source>
+        <translation>Килограммы</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="193"/>
+        <source>Ounces</source>
+        <translation>Унции</translation>
+    </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="193"/>
+        <source>Pounds</source>
+        <translation>Фунты</translation>
+    </message>
+</context>
+<context>
     <name>VTOLChecklist</name>
     <message>
         <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="25"/>

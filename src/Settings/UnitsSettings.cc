@@ -23,7 +23,7 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, horizontalDistanceUnits)
         // Distance/Area/Speed units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "Feet" << "Meters";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "Feet") << QCoreApplication::translate("UnitsSettings", "Meters");
         enumValues << QVariant::fromValue(static_cast<uint32_t>(HorizontalDistanceUnitsFeet))
                    << QVariant::fromValue(static_cast<uint32_t>(HorizontalDistanceUnitsMeters));
         FactMetaData* metaData = new FactMetaData(FactMetaData::valueTypeUint32, this);
@@ -54,7 +54,7 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, verticalDistanceUnits)
         // Distance/Area/Speed units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "Feet" << "Meters";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "Feet") << QCoreApplication::translate("UnitsSettings", "Meters");
         enumValues << QVariant::fromValue(static_cast<uint32_t>(VerticalDistanceUnitsFeet))
                    << QVariant::fromValue(static_cast<uint32_t>(VerticalDistanceUnitsMeters));
         FactMetaData* metaData = new FactMetaData(FactMetaData::valueTypeUint32, this);
@@ -84,7 +84,9 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, areaUnits)
         // Distance/Area/Speed units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "SquareFeet" << "SquareMeters" << "SquareKilometers" << "Hectares" << "Acres" << "SquareMiles";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "SquareFeet") << QCoreApplication::translate("UnitsSettings", "SquareMeters")
+                    << QCoreApplication::translate("UnitsSettings", "SquareKilometers") << QCoreApplication::translate("UnitsSettings", "Hectares")
+                    << QCoreApplication::translate("UnitsSettings", "Acres") << QCoreApplication::translate("UnitsSettings", "SquareMiles");
         enumValues <<
             QVariant::fromValue(static_cast<uint32_t>(AreaUnitsSquareFeet)) <<
             QVariant::fromValue(static_cast<uint32_t>(AreaUnitsSquareMeters)) <<
@@ -120,7 +122,9 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, speedUnits)
         // Distance/Area/Speed units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "Feet/second" << "Meters/second" << "Miles/hour" << "Kilometers/hour" << "Knots";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "Feet/second") << QCoreApplication::translate("UnitsSettings", "Meters/second")
+                    << QCoreApplication::translate("UnitsSettings", "Miles/hour") << QCoreApplication::translate("UnitsSettings", "Kilometers/hour")
+                    << QCoreApplication::translate("UnitsSettings", "Knots");
         enumValues <<
             QVariant::fromValue(static_cast<uint32_t>(SpeedUnitsFeetPerSecond)) <<
             QVariant::fromValue(static_cast<uint32_t>(SpeedUnitsMetersPerSecond)) <<
@@ -155,7 +159,7 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, temperatureUnits)
         // Units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "Celsius" << "Farenheit";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "Celsius") << QCoreApplication::translate("UnitsSettings", "Farenheit");
         enumValues << QVariant::fromValue(static_cast<uint32_t>(TemperatureUnitsCelsius)) << QVariant::fromValue(static_cast<uint32_t>(TemperatureUnitsFarenheit));
         FactMetaData* metaData = new FactMetaData(FactMetaData::valueTypeUint32, this);
         metaData->setName(temperatureUnitsName);
@@ -185,7 +189,8 @@ DECLARE_SETTINGSFACT_NO_FUNC(UnitsSettings, weightUnits)
         // Units settings can't be loaded from json since it creates an infinite loop of meta data loading.
         QStringList     enumStrings;
         QVariantList    enumValues;
-        enumStrings << "Grams" << "Kilograms" << "Ounces" << "Pounds";
+        enumStrings << QCoreApplication::translate("UnitsSettings", "Grams") << QCoreApplication::translate("UnitsSettings", "Kilograms")
+                    << QCoreApplication::translate("UnitsSettings", "Ounces") << QCoreApplication::translate("UnitsSettings", "Pounds");
         enumValues
             << QVariant::fromValue(static_cast<uint32_t>(WeightUnitsGrams))
             << QVariant::fromValue(static_cast<uint32_t>(WeightUnitsKg))
