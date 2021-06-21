@@ -7203,7 +7203,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="318"/>
         <source>Video decode priority</source>
-        <translation>Приоритет декодера видео</translation>
+        <translation>Приоритетный декодер видео</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="345"/>
@@ -13377,7 +13377,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="138"/>
         <source>Comm Links</source>
-        <translation>Подключение</translation>
+        <translation>Подключения</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="142"/>
