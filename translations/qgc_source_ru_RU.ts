@@ -7954,13 +7954,13 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="249"/>
         <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="274"/>
         <source>+</source>
-        <translation type="unfinished">+</translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="257"/>
         <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="281"/>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
 </context>
 <context>
@@ -8011,7 +8011,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="25"/>
         <source>Value Display</source>
-        <translation type="unfinished">Value Display</translation>
+        <translation>Отображение параметра</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="41"/>
@@ -8021,66 +8021,66 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="89"/>
         <source>Icon</source>
-        <translation type="unfinished">Icon</translation>
+        <translation>Значок</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="129"/>
         <source>Text</source>
-        <translation type="unfinished">Text</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="133"/>
         <source>Label</source>
-        <translation type="unfinished">Label</translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="146"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="159"/>
         <source>Show Units</source>
-        <translation type="unfinished">Show Units</translation>
+        <translation>Показывать единицы измерения</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="164"/>
         <source>Range</source>
-        <translation type="unfinished">Range</translation>
+        <translation>Отображение диапазона</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="246"/>
         <source>Specify the color you want to apply based on value ranges. The color will be applied to the icon if available, otherwise to the value itself.</source>
-        <translation type="unfinished">Specify the color you want to apply based on value ranges. The color will be applied to the icon if available, otherwise to the value itself.</translation>
+        <translation>Выберите цвета и соответствующие им значения. Цвет будет применен к значку, если это возможно, или к тексту.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="264"/>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="371"/>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="470"/>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="321"/>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="420"/>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="505"/>
         <source>Add Row</source>
-        <translation type="unfinished">Add Row</translation>
+        <translation>Добавить значение</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="353"/>
         <source>Specify the icon you want to display based on value ranges.</source>
-        <translation type="unfinished">Specify the icon you want to display based on value ranges.</translation>
+        <translation>Выберите значки и соответствующие им значения.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="452"/>
         <source>Specify the icon opacity you want based on value ranges.</source>
-        <translation type="unfinished">Specify the icon opacity you want based on value ranges.</translation>
+        <translation>Укажите величины прозрачности значка и соответствующие им значения.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="520"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Select Icon</translation>
+        <translation>Выберите значок</translation>
     </message>
 </context>
 <context>
@@ -8437,17 +8437,17 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="47"/>
         <source>Joystick Status</source>
-        <translation type="unfinished">Joystick Status</translation>
+        <translation>Статус джойстика</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="59"/>
         <source>Connected:</source>
-        <translation type="unfinished">Connected:</translation>
+        <translation>Подключен:</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="64"/>
         <source>Enabled:</source>
-        <translation type="unfinished">Enabled:</translation>
+        <translation>Используется:</translation>
     </message>
 </context>
 <context>
@@ -13363,7 +13363,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
         <location filename="../src/FlightMap/Widgets/QGCCompassWidget.qml" line="182"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>ВЫКЛ</translation>
     </message>
 </context>
 <context>
@@ -16699,42 +16699,42 @@ Confirm change?</translation>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="156"/>
         <source> EMERGENCY:</source>
-        <translation type="unfinished"> EMERGENCY:</translation>
+        <translation> АВАРИЯ:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="159"/>
         <source> ALERT:</source>
-        <translation type="unfinished"> ALERT:</translation>
+        <translation> ТРЕВОГА:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="162"/>
         <source> Critical:</source>
-        <translation type="unfinished"> Critical:</translation>
+        <translation> Критическая ошибка:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="165"/>
         <source> Error:</source>
-        <translation type="unfinished"> Error:</translation>
+        <translation> Ошибка:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="168"/>
         <source> Warning:</source>
-        <translation type="unfinished"> Warning:</translation>
+        <translation> Предупреждение:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="171"/>
         <source> Notice:</source>
-        <translation type="unfinished"> Notice:</translation>
+        <translation> Замечание:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="174"/>
         <source> Info:</source>
-        <translation type="unfinished"> Info:</translation>
+        <translation> Инфо:</translation>
     </message>
     <message>
         <location filename="../src/uas/UASMessageHandler.cc" line="177"/>
         <source> Debug:</source>
-        <translation type="unfinished"> Debug:</translation>
+        <translation> Отладка:</translation>
     </message>
 </context>
 <context>
