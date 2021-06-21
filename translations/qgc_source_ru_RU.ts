@@ -8016,7 +8016,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="41"/>
         <source>Valuec requires a connected vehicle for setup.</source>
-        <translation type="unfinished">Valuec requires a connected vehicle for setup.</translation>
+        <translation type="obsolete">Valuec requires a connected vehicle for setup.</translation>
+    </message>
+    <message>
+        <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="41"/>
+        <source>Value requires a connected vehicle for setup.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="89"/>
@@ -8443,6 +8448,18 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="59"/>
         <source>Connected:</source>
         <translation>Подключен:</translation>
+    </message>
+    <message>
+        <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="61"/>
+        <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="66"/>
+        <source>Yes</source>
+        <translation type="unfinished">Yes</translation>
+    </message>
+    <message>
+        <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="61"/>
+        <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="66"/>
+        <source>No</source>
+        <translation type="unfinished">No</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="64"/>
