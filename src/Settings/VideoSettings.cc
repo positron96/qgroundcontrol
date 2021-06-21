@@ -19,16 +19,16 @@
 #include <QCameraInfo>
 #endif
 
-const char* VideoSettings::videoSourceNoVideo           = "No Video Available";
-const char* VideoSettings::videoDisabled                = "Video Stream Disabled";
-const char* VideoSettings::videoSourceRTSP              = "RTSP Video Stream";
-const char* VideoSettings::videoSourceUDPH264           = "UDP h.264 Video Stream";
-const char* VideoSettings::videoSourceUDPH265           = "UDP h.265 Video Stream";
-const char* VideoSettings::videoSourceTCP               = "TCP-MPEG2 Video Stream";
-const char* VideoSettings::videoSourceMPEGTS            = "MPEG-TS (h.264) Video Stream";
-const char* VideoSettings::videoSource3DRSolo           = "3DR Solo (requires restart)";
-const char* VideoSettings::videoSourceParrotDiscovery   = "Parrot Discovery";
-const char* VideoSettings::videoSourceYuneecMantisG     = "Yuneec Mantis G";
+const QString VideoSettings::videoSourceNoVideo           = VideoSettings::tr("No Video Available");
+const QString VideoSettings::videoDisabled                = VideoSettings::tr("Video Stream Disabled");
+const QString VideoSettings::videoSourceRTSP              = VideoSettings::tr("RTSP Video Stream");
+const QString VideoSettings::videoSourceUDPH264           = VideoSettings::tr("UDP h.264 Video Stream");
+const QString VideoSettings::videoSourceUDPH265           = VideoSettings::tr("UDP h.265 Video Stream");
+const QString VideoSettings::videoSourceTCP               = VideoSettings::tr("TCP-MPEG2 Video Stream");
+const QString VideoSettings::videoSourceMPEGTS            = VideoSettings::tr("MPEG-TS (h.264) Video Stream");
+const QString VideoSettings::videoSource3DRSolo           = VideoSettings::tr("3DR Solo (requires restart)");
+const QString VideoSettings::videoSourceParrotDiscovery   = VideoSettings::tr("Parrot Discovery");
+const QString VideoSettings::videoSourceYuneecMantisG     = VideoSettings::tr("Yuneec Mantis G");
 
 DECLARE_SETTINGGROUP(Video, "Video")
 {

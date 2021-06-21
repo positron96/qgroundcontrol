@@ -63,16 +63,16 @@ public:
     QString  mpegtsVideoSource      () { return videoSourceMPEGTS; }
     QString  disabledVideoSource    () { return videoDisabled; }
 
-    static const char* videoSourceNoVideo;
-    static const char* videoDisabled;
-    static const char* videoSourceUDPH264;
-    static const char* videoSourceUDPH265;
-    static const char* videoSourceRTSP;
-    static const char* videoSourceTCP;
-    static const char* videoSourceMPEGTS;
-    static const char* videoSource3DRSolo;
-    static const char* videoSourceParrotDiscovery;
-    static const char* videoSourceYuneecMantisG;
+    static const QString videoSourceNoVideo;
+    static const QString videoDisabled;
+    static const QString videoSourceUDPH264;
+    static const QString videoSourceUDPH265;
+    static const QString videoSourceRTSP;
+    static const QString videoSourceTCP;
+    static const QString videoSourceMPEGTS;
+    static const QString videoSource3DRSolo;
+    static const QString videoSourceParrotDiscovery;
+    static const QString videoSourceYuneecMantisG;
 
 signals:
     void streamConfiguredChanged    (bool configured);
