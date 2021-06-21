@@ -13372,92 +13372,92 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="134"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Основные</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="138"/>
         <source>Comm Links</source>
-        <translation type="unfinished">Comm Links</translation>
+        <translation>Подключение</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="142"/>
         <source>Offline Maps</source>
-        <translation type="unfinished">Offline Maps</translation>
+        <translation>Локальные карты</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="147"/>
         <source>Taisync</source>
-        <translation type="unfinished">Taisync</translation>
+        <translation>Taisync</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="153"/>
         <source>Microhard</source>
-        <translation type="unfinished">Microhard</translation>
+        <translation>Microhard</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="159"/>
         <source>AirMap</source>
-        <translation type="unfinished">AirMap</translation>
+        <translation>AirMap</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="164"/>
         <source>MAVLink</source>
-        <translation type="unfinished">MAVLink</translation>
+        <translation>MAVLink</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="168"/>
         <source>Console</source>
-        <translation type="unfinished">Console</translation>
+        <translation>Консоль</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="171"/>
         <source>Help</source>
-        <translation type="unfinished">Help</translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="176"/>
         <source>Mock Link</source>
-        <translation type="unfinished">Mock Link</translation>
+        <translation>Имитация подключения</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="179"/>
         <source>Debug</source>
-        <translation type="unfinished">Debug</translation>
+        <translation>Отладка</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="182"/>
         <source>Palette Test</source>
-        <translation type="unfinished">Palette Test</translation>
+        <translation>Тест цветовой палитры</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="201"/>
         <source>Vibration</source>
-        <translation type="unfinished">Vibration</translation>
+        <translation>Вибрация</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="193"/>
         <source>Log Download</source>
-        <translation type="unfinished">Log Download</translation>
+        <translation>Загрузка журнала</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="195"/>
         <source>GeoTag Images</source>
-        <translation type="unfinished">GeoTag Images</translation>
+        <translation>Геопривязка изображений</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="197"/>
         <source>MAVLink Console</source>
-        <translation type="unfinished">MAVLink Console</translation>
+        <translation>Консоль MAVLink</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="199"/>
         <source>MAVLink Inspector</source>
-        <translation type="unfinished">MAVLink Inspector</translation>
+        <translation>Анализатор MAVLink</translation>
     </message>
     <message>
         <location filename="../src/api/QGCCorePlugin.cc" line="286"/>
         <source>WARNING: You are about to enter Advanced Mode. If used incorrectly, this may cause your vehicle to malfunction thus voiding your warranty. You should do so only if instructed by customer support. Are you sure you want to enable Advanced Mode?</source>
-        <translation type="unfinished">WARNING: You are about to enter Advanced Mode. If used incorrectly, this may cause your vehicle to malfunction thus voiding your warranty. You should do so only if instructed by customer support. Are you sure you want to enable Advanced Mode?</translation>
+        <translation>ВНИМАНИЕ: вы переходите в Расширенный режим. При некорректном использовании это может привести к отказу вашего аппарата и к потере гарантии. Этот режим необходимо использовать только при инструктировании сотрудником поддержки. Вы действительно хотите перейти в Расширенный режим?</translation>
     </message>
 </context>
 <context>
@@ -16917,12 +16917,12 @@ Confirm change?</translation>
     <message>
         <location filename="../src/Settings/UnitsSettings.cc" line="162"/>
         <source>Celsius</source>
-        <translation>Градусы цельсия</translation>
+        <translation>Градусы Цельсия</translation>
     </message>
     <message>
         <location filename="../src/Settings/UnitsSettings.cc" line="162"/>
         <source>Farenheit</source>
-        <translation>Градусы фаренгейта</translation>
+        <translation>Градусы Фаренгейта</translation>
     </message>
     <message>
         <location filename="../src/Settings/UnitsSettings.cc" line="192"/>
