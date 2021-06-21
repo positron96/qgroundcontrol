@@ -13359,6 +13359,14 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     </message>
 </context>
 <context>
+    <name>QGCCompassWidget</name>
+    <message>
+        <location filename="../src/FlightMap/Widgets/QGCCompassWidget.qml" line="182"/>
+        <source>OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QGCControlDebug</name>
     <message>
         <location filename="../src/QmlControls/QGCControlDebug.qml" line="22"/>
