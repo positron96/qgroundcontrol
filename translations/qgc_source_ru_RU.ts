@@ -17693,52 +17693,52 @@ Confirm change?</translation>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="22"/>
         <source>No Video Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет доступных источников</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="23"/>
         <source>Video Stream Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Видеопоток отключен</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="24"/>
         <source>RTSP Video Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток RTSP</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="25"/>
         <source>UDP h.264 Video Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток UDP h.264</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="26"/>
         <source>UDP h.265 Video Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток UDP h.265</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="27"/>
         <source>TCP-MPEG2 Video Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток TCP-MPEG2</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="28"/>
         <source>MPEG-TS (h.264) Video Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток MPEG-TS h.264</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="29"/>
         <source>3DR Solo (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>3DR Solo (требуется перезапуск)</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="30"/>
         <source>Parrot Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Parrot Discovery</translation>
     </message>
     <message>
         <location filename="../src/Settings/VideoSettings.cc" line="31"/>
         <source>Yuneec Mantis G</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuneec Mantis G</translation>
     </message>
 </context>
 </TS>
