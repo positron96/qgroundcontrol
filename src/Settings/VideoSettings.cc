@@ -19,16 +19,16 @@
 #include <QCameraInfo>
 #endif
 
-const QString VideoSettings::videoSourceNoVideo           = VideoSettings::tr("No Video Available");
-const QString VideoSettings::videoDisabled                = VideoSettings::tr("Video Stream Disabled");
-const QString VideoSettings::videoSourceRTSP              = VideoSettings::tr("RTSP Video Stream");
-const QString VideoSettings::videoSourceUDPH264           = VideoSettings::tr("UDP h.264 Video Stream");
-const QString VideoSettings::videoSourceUDPH265           = VideoSettings::tr("UDP h.265 Video Stream");
-const QString VideoSettings::videoSourceTCP               = VideoSettings::tr("TCP-MPEG2 Video Stream");
-const QString VideoSettings::videoSourceMPEGTS            = VideoSettings::tr("MPEG-TS (h.264) Video Stream");
-const QString VideoSettings::videoSource3DRSolo           = VideoSettings::tr("3DR Solo (requires restart)");
-const QString VideoSettings::videoSourceParrotDiscovery   = VideoSettings::tr("Parrot Discovery");
-const QString VideoSettings::videoSourceYuneecMantisG     = VideoSettings::tr("Yuneec Mantis G");
+const QString VideoSettings::videoSourceNoVideo           = QT_TRANSLATE_NOOP("VideoSettings", "No Video Available");
+const QString VideoSettings::videoDisabled                = QT_TRANSLATE_NOOP("VideoSettings", "Video Stream Disabled");
+const QString VideoSettings::videoSourceRTSP              = QT_TRANSLATE_NOOP("VideoSettings", "RTSP Video Stream");
+const QString VideoSettings::videoSourceUDPH264           = QT_TRANSLATE_NOOP("VideoSettings", "UDP h.264 Video Stream");
+const QString VideoSettings::videoSourceUDPH265           = QT_TRANSLATE_NOOP("VideoSettings", "UDP h.265 Video Stream");
+const QString VideoSettings::videoSourceTCP               = QT_TRANSLATE_NOOP("VideoSettings", "TCP-MPEG2 Video Stream");
+const QString VideoSettings::videoSourceMPEGTS            = QT_TRANSLATE_NOOP("VideoSettings", "MPEG-TS (h.264) Video Stream");
+const QString VideoSettings::videoSource3DRSolo           = QT_TRANSLATE_NOOP("VideoSettings", "3DR Solo (requires restart)");
+const QString VideoSettings::videoSourceParrotDiscovery   = QT_TRANSLATE_NOOP("VideoSettings", "Parrot Discovery");
+const QString VideoSettings::videoSourceYuneecMantisG     = QT_TRANSLATE_NOOP("VideoSettings", "Yuneec Mantis G");
 
 DECLARE_SETTINGGROUP(Video, "Video")
 {
