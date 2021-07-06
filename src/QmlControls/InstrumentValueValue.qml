@@ -42,7 +42,8 @@ ColumnLayout {
 
         function valueText() {
             if (instrumentValueData.fact) {
-                return instrumentValueData.fact.enumOrValueString + (instrumentValueData.showUnits ? " " + instrumentValueData.fact.units : "")
+                return instrumentValueData.fact.enumOrValueString +
+                        (instrumentValueData.showUnits ? " " + qsTranslate("FactMetaData", instrumentValueData.fact.units) : "")
             } else {
                 return qsTr("--.--")
             }

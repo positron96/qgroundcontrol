@@ -5087,6 +5087,121 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <translation>Прочее</translation>
     </message>
     <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="67"/>
+        <source>m</source>
+        <translation>м</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="68"/>
+        <source>meter</source>
+        <translation>метр</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="69"/>
+        <source>meters</source>
+        <translation>метры</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="72"/>
+        <source>cm/px</source>
+        <translation>см/пикс</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="73"/>
+        <source>m/s</source>
+        <translation>м/с</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="74"/>
+        <source>C</source>
+        <translation>C</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="75"/>
+        <source>m^2</source>
+        <translation>кв.м</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="76"/>
+        <source>ft</source>
+        <translation>фут</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="80"/>
+        <source>in/px</source>
+        <translation>дюйм/пикс</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="81"/>
+        <source>km^2</source>
+        <translation>кв. км</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="82"/>
+        <source>ha</source>
+        <translation>га</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="83"/>
+        <source>ft^2</source>
+        <translation>кв. фут</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="84"/>
+        <source>ac</source>
+        <translation>акр</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="85"/>
+        <source>mi^2</source>
+        <translation>кв. мили</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="86"/>
+        <source>ft/s</source>
+        <translation>фут/с</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="87"/>
+        <source>mph</source>
+        <translation>миль/ч</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="88"/>
+        <source>km/h</source>
+        <translation>км/ч</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="89"/>
+        <source>kn</source>
+        <translation>узлы</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="90"/>
+        <source>F</source>
+        <translation>F</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="91"/>
+        <source>g</source>
+        <translation>гр</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="92"/>
+        <source>kg</source>
+        <translation>кг</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="93"/>
+        <source>oz</source>
+        <translation>унц</translation>
+    </message>
+    <message>
+        <location filename="../src/FactSystem/FactMetaData.cc" line="94"/>
+        <source>lbs</source>
+        <translation>фунт</translation>
+    </message>
+    <message>
         <location filename="../src/FactSystem/FactMetaData.cc" line="460"/>
         <location filename="../src/FactSystem/FactMetaData.cc" line="468"/>
         <location filename="../src/FactSystem/FactMetaData.cc" line="478"/>
@@ -5100,7 +5215,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/FactSystem/FactMetaData.cc" line="582"/>
         <location filename="../src/FactSystem/FactMetaData.cc" line="591"/>
         <source>Value must be within %1 and %2</source>
-        <translation type="unfinished">Value must be within %1 and %2</translation>
+        <translation>Значение должно быть в интервале %1...%2</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/FactMetaData.cc" line="522"/>
@@ -7583,7 +7698,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
 <context>
     <name>InstrumentValueValue</name>
     <message>
-        <location filename="../src/QmlControls/InstrumentValueValue.qml" line="47"/>
+        <location filename="../src/QmlControls/InstrumentValueValue.qml" line="48"/>
         <source>--.--</source>
         <translation type="unfinished">--.--</translation>
     </message>
@@ -10751,7 +10866,7 @@ Is this really what you want?</source>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="487"/>
         <source>Unable to pause vehicle.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно поставить аппарат на паузу.</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="496"/>
