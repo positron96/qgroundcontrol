@@ -1705,7 +1705,7 @@
         <location filename="../src/Settings/FirmwareUpgrade.SettingsGroup.json"/>
         <source>ChibiOS,NuttX</source>
         <extracomment>.QGC.MetaData.Facts[apmChibiOS].enumStrings, </extracomment>
-        <translation type="unfinished">ChibiOS,NuttX</translation>
+        <translation>ChibiOS,NuttX</translation>
     </message>
     <message>
         <location filename="../src/Settings/FirmwareUpgrade.SettingsGroup.json"/>
@@ -1741,7 +1741,7 @@
         <location filename="../src/Settings/App.SettingsGroup.json"/>
         <source>Disabled,Error,Warning,FixMe,Info,Debug,Log,Trace</source>
         <extracomment>.QGC.MetaData.Facts[gstDebugLevel].enumStrings, </extracomment>
-        <translation type="unfinished">Disabled,Error,Warning,FixMe,Info,Debug,Log,Trace</translation>
+        <translation>Выкл.,Ошибки,Предупреждения,FixMe,Info,Debug,Log,Trace</translation>
     </message>
     <message>
         <location filename="../src/Settings/App.SettingsGroup.json"/>
