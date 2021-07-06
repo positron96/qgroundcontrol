@@ -933,7 +933,6 @@ void FactMetaData::setRawUnits(const QString& rawUnits)
 {
     _rawUnits = rawUnits;
     _cookedUnits = rawUnits;
-    qDebug()<<"FactMetaData::setRawUnits "<<rawUnits;
 
     setBuiltInTranslator();
 }
