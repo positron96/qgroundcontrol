@@ -1678,25 +1678,25 @@
         <location filename="../src/Settings/Video.SettingsGroup.json"/>
         <source>Hide,Show</source>
         <extracomment>.QGC.MetaData.Facts[gridLines].enumStrings, </extracomment>
-        <translation type="unfinished">Hide,Show</translation>
+        <translation>Спрятать,Показать</translation>
     </message>
     <message>
         <location filename="../src/Settings/Video.SettingsGroup.json"/>
         <source>Fit Width,Fit Height,Stretch</source>
         <extracomment>.QGC.MetaData.Facts[videoFit].enumStrings, </extracomment>
-        <translation type="unfinished">Fit Width,Fit Height,Stretch</translation>
+        <translation>Подогнать по ширине,Подогнать по высоте,Растянуть</translation>
     </message>
     <message>
         <location filename="../src/Settings/Video.SettingsGroup.json"/>
         <source>mkv,mov,mp4</source>
         <extracomment>.QGC.MetaData.Facts[recordingFormat].enumStrings, </extracomment>
-        <translation type="unfinished">mkv,mov,mp4</translation>
+        <translation>mkv,mov,mp4</translation>
     </message>
     <message>
         <location filename="../src/Settings/Video.SettingsGroup.json"/>
         <source>Default,Force software decoder,Force NVIDIA decoder,Force VA-API decoder,Force DirectX3D 11 decoder,Force VideoToolbox decoder</source>
         <extracomment>.QGC.MetaData.Facts[forceVideoDecoder].enumStrings, </extracomment>
-        <translation type="unfinished">Default,Force software decoder,Force NVIDIA decoder,Force VA-API decoder,Force DirectX3D 11 decoder,Force VideoToolbox decoder</translation>
+        <translation>По умолчанию,Программный декодер,Декодер NVIDIA,Декодер VA-API,Декодер DirectX3D 11,Декодер VideoToolbox</translation>
     </message>
 </context>
 <context>

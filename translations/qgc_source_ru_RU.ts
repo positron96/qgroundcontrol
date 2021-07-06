@@ -3549,22 +3549,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="115"/>
         <source>GStreamer Debug Level</source>
-        <translation type="unfinished">GStreamer Debug Level</translation>
+        <translation>Уровень журналирования GStreamer</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="159"/>
         <source>Logging categories</source>
-        <translation type="unfinished">Logging categories</translation>
+        <translation>Категории журнала</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="170"/>
         <source>Search:</source>
-        <translation type="unfinished">Search:</translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="181"/>
         <source>Clear</source>
-        <translation type="unfinished">Clear</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="189"/>
@@ -3599,7 +3599,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/AppMessages.qml" line="149"/>
         <source>Set Logging</source>
-        <translation type="unfinished">Set Logging</translation>
+        <translation>Выбрать категории...</translation>
     </message>
 </context>
 <context>
@@ -5127,32 +5127,32 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="39"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>По-умолчанию</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="40"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Малый</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="41"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="42"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Большой</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="318"/>
         <source>Settings version %1 for %2 is not supported. Setup will be reset to defaults.</source>
-        <translation type="unfinished">Settings version %1 for %2 is not supported. Setup will be reset to defaults.</translation>
+        <translation>Настройки версии %1 для &quot;%2&quot; не поддерживаются. Настрока будет сброшена.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/FactValueGrid.cc" line="318"/>
         <source>Load Settings</source>
-        <translation type="unfinished">Load Settings</translation>
+        <translation>Загрузить настройки</translation>
     </message>
 </context>
 <context>
@@ -7438,12 +7438,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/HelpSettings.qml" line="44"/>
         <source>PX4 Users Discussion Forum</source>
-        <translation type="unfinished">PX4 Users Discussion Forum</translation>
+        <translation>Форум пользователей PX4</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/HelpSettings.qml" line="51"/>
         <source>ArduPilot Users Discussion Forum</source>
-        <translation type="unfinished">ArduPilot Users Discussion Forum</translation>
+        <translation>Форум пользователей ArduPilot</translation>
     </message>
 </context>
 <context>
@@ -7466,22 +7466,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueData.cc" line="21"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueData.cc" line="22"/>
         <source>Color</source>
-        <translation type="unfinished">Color</translation>
+        <translation>Цвет</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueData.cc" line="23"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueData.cc" line="24"/>
         <source>Icon</source>
-        <translation type="unfinished">Icon</translation>
+        <translation>Значок</translation>
     </message>
 </context>
 <context>
@@ -8272,7 +8272,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="24"/>
         <source>Log Download allows you to download binary log files from your vehicle. Click Refresh to get list of available logs.</source>
-        <translation type="unfinished">Log Download allows you to download binary log files from your vehicle. Click Refresh to get list of available logs.</translation>
+        <translation>Позволяет загрузить журнал с аппарата в двоичном виде. Нажмите &quot;Обновить&quot;, чтобы получить список журналов.</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="59"/>
@@ -8748,47 +8748,47 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="45"/>
         <source>Inspect real time MAVLink messages.</source>
-        <translation type="unfinished">Inspect real time MAVLink messages.</translation>
+        <translation>Анализ сообщений MAVLink в реальном времени.</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="142"/>
         <source>Message:</source>
-        <translation type="unfinished">Message:</translation>
+        <translation>Сообщение:</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="150"/>
         <source>Component:</source>
-        <translation type="unfinished">Component:</translation>
+        <translation>Компонент:</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="156"/>
         <source>Count:</source>
-        <translation type="unfinished">Count:</translation>
+        <translation>Количество:</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="171"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="174"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="177"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="180"/>
         <source>Plot 1</source>
-        <translation type="unfinished">Plot 1</translation>
+        <translation>График 1</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="183"/>
         <source>Plot 2</source>
-        <translation type="unfinished">Plot 2</translation>
+        <translation>График 2</translation>
     </message>
 </context>
 <context>
@@ -9042,22 +9042,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="27"/>
         <source>Provides a connection to the vehicle&apos;s system shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставляет доступ к консоли аппарата.</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="140"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="146"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="290"/>
         <source>Send</source>
-        <translation type="unfinished">Send</translation>
+        <translation>Отправить</translation>
     </message>
 </context>
 <context>
@@ -9992,100 +9992,100 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="240"/>
         <source>Error Message</source>
-        <translation type="unfinished">Error Message</translation>
+        <translation>Сообщение об ошибке</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="270"/>
         <source>Max Cache Disk Size (MB):</source>
-        <translation type="unfinished">Max Cache Disk Size (MB):</translation>
+        <translation>Максимальный размер дискового кэша (MB):</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="286"/>
         <source>Max Cache Memory Size (MB):</source>
-        <translation type="unfinished">Max Cache Memory Size (MB):</translation>
+        <translation>Максимальный размер кэша в памяти (MB):</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="302"/>
         <source>Memory cache changes require a restart to take effect.</source>
-        <translation type="unfinished">Memory cache changes require a restart to take effect.</translation>
+        <translation>Чтобы изменения настроек кэша вступили в силу, требуется перезагрузка.</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="306"/>
         <source>Mapbox Access Token</source>
-        <translation type="unfinished">Mapbox Access Token</translation>
+        <translation>Токен доступа Mapbox</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="317"/>
         <source>To enable Mapbox maps, enter your access token.</source>
-        <translation type="unfinished">To enable Mapbox maps, enter your access token.</translation>
+        <translation>Для доступа к картам Mapbox введите токен доступа.</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="323"/>
         <source>Mapbox User Name</source>
-        <translation type="unfinished">Mapbox User Name</translation>
+        <translation>Имя пользователя Mapbox</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="334"/>
         <source>To enable custom Mapbox styles, enter your account name.</source>
-        <translation type="unfinished">To enable custom Mapbox styles, enter your account name.</translation>
+        <translation>Для доступа к пользовательским стилям Mapbox введите имя пользвателя.</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="340"/>
         <source>Mapbox Style ID</source>
-        <translation type="unfinished">Mapbox Style ID</translation>
+        <translation>Идентификатор стиля Mapbox</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="351"/>
         <source>To enable custom Mapbox styles, enter your style ID.</source>
-        <translation type="unfinished">To enable custom Mapbox styles, enter your style ID.</translation>
+        <translation>Для доступа к пользовательским стилям Mapbox, введите идентификатор стиля.</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="357"/>
         <source>Esri Access Token</source>
-        <translation type="unfinished">Esri Access Token</translation>
+        <translation>Токен доступа Esri</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="368"/>
         <source>To enable Esri maps, enter your access token.</source>
-        <translation type="unfinished">To enable Esri maps, enter your access token.</translation>
+        <translation>Для доступа к картам Esri введите токен доступа.</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="374"/>
         <source>Custom Map URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL сервера карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="385"/>
         <source>URL with {x} {y} {z} or {zoom} substitutions</source>
-        <translation type="unfinished"></translation>
+        <translation>URL с полями  {x} {y} {z} или {zoom}</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="400"/>
         <source>This will delete all tiles INCLUDING the tile sets you have created yourself.
 
 Is this really what you want?</source>
-        <translation type="unfinished">This will delete all tiles INCLUDING the tile sets you have created yourself.
+        <translation>Будут удалены все карты ВКЛЮЧАЯ те, которые были созданы вами
 
-Is this really what you want?</translation>
+Вы подтверждаете это действие?</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="402"/>
         <source>Delete %1 and all its tiles.
 
 Is this really what you want?</source>
-        <translation type="unfinished">Delete %1 and all its tiles.
+        <translation>Будет удален набор %1 и все его тайлы.
 
-Is this really what you want?</translation>
+Вы подтверждаете это действие?</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="507"/>
         <source>System Wide Tile Cache</source>
-        <translation type="unfinished">System Wide Tile Cache</translation>
+        <translation>Системный кэш тайлов</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="520"/>
         <source>Zoom Levels:</source>
-        <translation type="unfinished">Zoom Levels:</translation>
+        <translation>Уровни масштаба:</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="527"/>
@@ -10161,53 +10161,53 @@ Is this really what you want?</translation>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="668"/>
         <source>Min Zoom: %1</source>
-        <translation type="unfinished">Min Zoom: %1</translation>
+        <translation>Мин. масштаб: %1</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="708"/>
         <source>Max Zoom: %1</source>
-        <translation type="unfinished">Max Zoom: %1</translation>
+        <translation>Макс. масштаб: %1</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="754"/>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1016"/>
         <source>Add New Set</source>
-        <translation type="unfinished">Add New Set</translation>
+        <translation>Добавить набор карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="782"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="795"/>
         <source>Map type:</source>
-        <translation type="unfinished">Map type:</translation>
+        <translation>Тип карты:</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="818"/>
         <source>Fetch elevation data</source>
-        <translation type="unfinished">Fetch elevation data</translation>
+        <translation>Загрузить карту высот</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="844"/>
         <source>Min/Max Zoom Levels</source>
-        <translation type="unfinished">Min/Max Zoom Levels</translation>
+        <translation>Мин/макс масштаб</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="948"/>
         <source>Est Size:</source>
-        <translation type="unfinished">Est Size:</translation>
+        <translation>Размер (примерно):</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="960"/>
         <source>Too many tiles</source>
-        <translation type="unfinished">Too many tiles</translation>
+        <translation>Слишком много тайлов</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="971"/>
         <source>Download</source>
-        <translation type="unfinished">Download</translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1054"/>
@@ -10229,12 +10229,12 @@ Is this really what you want?</translation>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1071"/>
         <source>Offline Maps Options</source>
-        <translation type="unfinished">Offline Maps Options</translation>
+        <translation>Настройки офлайн-карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1092"/>
         <source>Select Tile Sets to Export</source>
-        <translation type="unfinished">Select Tile Sets to Export</translation>
+        <translation>Выберите наборы карт для экспорта</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1121"/>
@@ -10244,52 +10244,52 @@ Is this really what you want?</translation>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1126"/>
         <source>Select None</source>
-        <translation type="unfinished">Select None</translation>
+        <translation>Снять выделение</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1135"/>
         <source>Export Tile Set</source>
-        <translation type="unfinished">Export Tile Set</translation>
+        <translation>Экспортировать набор тайлов</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1170"/>
         <source>Tile Set Export Progress</source>
-        <translation type="unfinished">Tile Set Export Progress</translation>
+        <translation>Прогресс экспорта набора карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1170"/>
         <source>Tile Set Export Completed</source>
-        <translation type="unfinished">Tile Set Export Completed</translation>
+        <translation>Экспорт набора карт завершен</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1226"/>
         <source>Map Tile Set Import</source>
-        <translation type="unfinished">Map Tile Set Import</translation>
+        <translation>Импорт набора карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1228"/>
         <source>Map Tile Set Import Progress</source>
-        <translation type="unfinished">Map Tile Set Import Progress</translation>
+        <translation>Прогресс импорта набора карт</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1230"/>
         <source>Map Tile Set Import Completed</source>
-        <translation type="unfinished">Map Tile Set Import Completed</translation>
+        <translation>ИИмпорт набора карт завершен</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1258"/>
         <source>Append to existing set</source>
-        <translation type="unfinished">Append to existing set</translation>
+        <translation>Добавить к существующему набору</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1264"/>
         <source>Replace existing set</source>
-        <translation type="unfinished">Replace existing set</translation>
+        <translation>Заменить существующий набор</translation>
     </message>
     <message>
         <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1289"/>
         <source>Import Tile Set</source>
-        <translation type="unfinished">Import Tile Set</translation>
+        <translation>Импорт набора карт</translation>
     </message>
 </context>
 <context>
@@ -11814,7 +11814,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="316"/>
         <source>Settings</source>
-        <translation type="unfinished">Settings</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="331"/>
@@ -11844,17 +11844,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="370"/>
         <source>Photo Interval (seconds)</source>
-        <translation type="unfinished">Photo Interval (seconds)</translation>
+        <translation>Интервал фото (секунды)</translation>
     </message>
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="376"/>
         <source>Video Grid Lines</source>
-        <translation type="unfinished">Video Grid Lines</translation>
+        <translation>Линии сетки видео</translation>
     </message>
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="382"/>
         <source>Video Screen Fit</source>
-        <translation type="unfinished">Video Screen Fit</translation>
+        <translation>Размер видео</translation>
     </message>
     <message>
         <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="388"/>
