@@ -35,7 +35,7 @@ DECLARE_SETTINGGROUP(Video, "Video")
     qmlRegisterUncreatableType<VideoSettings>("QGroundControl.SettingsManager", 1, 0, "VideoSettings", "Reference only");
 
     // Setup enum values for videoSource settings into meta data
-    QStringList videoSourceList;
+    QVariantList videoSourceList;
 #ifdef QGC_GST_STREAMING
     videoSourceList.append(videoSourceRTSP);
 #ifndef NO_UDP_VIDEO
@@ -60,11 +60,14 @@ DECLARE_SETTINGGROUP(Video, "Video")
     } else {
         videoSourceList.insert(0, videoDisabled);
     }
-    QVariantList videoSourceVarList;
-    for (const QString& videoSource: videoSourceList) {
-        videoSourceVarList.append(QVariant::fromValue(videoSource));
+
+    // make translated strings
+    QStringList videoSourceCookedList;
+    for (const QVariant& videoSource: videoSourceList) {
+        videoSourceCookedList.append( VideoSettings::tr(videoSource.toString().toStdString().c_str()) );
     }
-    _nameToMetaDataMap[videoSourceName]->setEnumInfo(videoSourceList, videoSourceVarList);
+
+    _nameToMetaDataMap[videoSourceName]->setEnumInfo(videoSourceCookedList, videoSourceList);
 
     const QVariantList removeForceVideoDecodeList{
 #ifdef Q_OS_LINUX
@@ -115,7 +118,7 @@ DECLARE_SETTINGSFACT_NO_FUNC(VideoSettings, videoSource)
     if (!_videoSourceFact) {
         _videoSourceFact = _createSettingsFact(videoSourceName);
         //-- Check for sources no longer available
-        if(!_videoSourceFact->enumStrings().contains(_videoSourceFact->rawValue().toString())) {
+        if(!_videoSourceFact->enumValues().contains(_videoSourceFact->rawValue().toString())) {
             if (_noVideo) {
                 _videoSourceFact->setRawValue(videoSourceNoVideo);
             } else {
