@@ -197,7 +197,8 @@ Item {
         anchors.top:            parent.top
         z:                      QGroundControl.zOrderWidgets
         maxHeight:              parent.height - y - parentToolInsets.bottomEdgeLeftInset - _toolsMargin
-        visible:                !QGroundControl.videoManager.fullScreen
+        property var  _activeVehicle:       QGroundControl.multiVehicleManager.activeVehicle
+        visible:                !QGroundControl.videoManager.fullScreen && _activeVehicle && _activeVehicle.requiresGpsFix
 
         onDisplayPreFlightChecklist: mainWindow.showPopupDialogFromComponent(preFlightChecklistPopup)
 
