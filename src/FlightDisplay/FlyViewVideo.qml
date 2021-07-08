@@ -63,10 +63,21 @@ Item {
         source:         visible ? (QGroundControl.videoManager.uvcEnabled ? "qrc:/qml/FlightDisplayViewUVC.qml" : "qrc:/qml/FlightDisplayViewDummy.qml") : ""
     }
 
+    QGCLabel {
+        text: qsTr("Double-click to exit full screen")
+        font.pointSize: ScreenTools.largeFontPointSize
+        visible: QGroundControl.videoManager.fullScreen && flyViewVideoMouseArea.containsMouse && _hintShown
+        anchors.centerIn: parent
+        anchors.verticalCenterOffset: 1.5 * font.pointSize
+    }
+
+    property bool _hintShown: true
+
     MouseArea {
         anchors.fill:       parent
         enabled:            pipState.state === pipState.fullState
         onDoubleClicked:    QGroundControl.videoManager.fullScreen = !QGroundControl.videoManager.fullScreen
+        onClicked: if(QGroundControl.videoManager.fullScreen) _hintShown = !_hintShown
     }
 
     ProximityRadarVideoView{
