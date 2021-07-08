@@ -6489,7 +6489,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/FlightDisplay/FlyViewVideo.qml" line="68"/>
         <source>Double-click to exit full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликните дважды чтобы выйти из полноэкранного режима</translation>
     </message>
 </context>
 <context>
