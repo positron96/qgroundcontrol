@@ -47,7 +47,7 @@ Item {
 
     onShowChanged: {
         if (_pipOrWindowItem && _pipOrWindowItem.pipState.state !== _pipOrWindowItem.pipState.windowState) {
-            _pipOrWindowItem.visible = show
+            _pipOrWindowItem.visible = show && _isExpanded
         }
     }
 
