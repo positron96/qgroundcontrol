@@ -218,7 +218,7 @@ SetupPage {
 
                     QGCLabel {
                         id:         directionLabel
-                        text:       qsTr("Gimbal ") + directionTitle
+                        text:       qsTr("Gimbal %1").arg(directionTitle)
                         font.family: ScreenTools.demiboldFontFamily
                     }
 

@@ -115,9 +115,13 @@
         <translation>Канал </translation>
     </message>
     <message>
-        <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="221"/>
         <source>Gimbal </source>
-        <translation>Подвес: </translation>
+        <translation type="vanished">Подвес: </translation>
+    </message>
+    <message>
+        <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="221"/>
+        <source>Gimbal %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="239"/>
@@ -286,6 +290,16 @@
         <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="193"/>
         <source>Channel 14</source>
         <translation>Канал 14</translation>
+    </message>
+    <message>
+        <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="198"/>
+        <source>Show all settings (advanced)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="203"/>
+        <source>Camera mount tilt speed:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="282"/>
