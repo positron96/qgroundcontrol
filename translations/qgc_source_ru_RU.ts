@@ -3645,22 +3645,23 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="24"/>
         <source>Armed</source>
+        <translatorcomment>Готов? Взведен? Вооружен?</translatorcomment>
         <translation>Armed</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="24"/>
         <source>Disarmed</source>
-        <translation>Снятие с охраны</translation>
+        <translation>Disarmed</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
         <source>Arm</source>
-        <translation type="unfinished">Arm</translation>
+        <translation>Arm</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
         <source>Disarm</source>
-        <translation type="unfinished">Disarm</translation>
+        <translation>Disarm</translation>
     </message>
 </context>
 <context>
