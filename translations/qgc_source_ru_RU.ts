@@ -117,7 +117,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="221"/>
         <source>Gimbal </source>
-        <translation>Подвес </translation>
+        <translation>Подвес: </translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="239"/>
@@ -184,17 +184,17 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="473"/>
         <source>Tilt</source>
-        <translation>Вертикальное панорамирование</translation>
+        <translation>Наклон</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="491"/>
         <source>Roll</source>
-        <translation>Наклон</translation>
+        <translation>Крен</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="509"/>
         <source>Pan</source>
-        <translation>Горизонтальное панорамирование</translation>
+        <translation>Панорамирование</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.cc" line="20"/>
@@ -1000,7 +1000,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="80"/>
         <source>Battery1 monitor:</source>
-        <translation>Индикатор аккумулятора 1:</translation>
+        <translation>Датчик батареи 1:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="94"/>
@@ -1017,7 +1017,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="166"/>
         <source>Battery2 monitor:</source>
-        <translation>Монитор батареи 2:</translation>
+        <translation>Датчик батареи 2:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="231"/>
@@ -1102,7 +1102,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="342"/>
         <source>Blue Robotics Power Sense Module R2</source>
-        <translation type="unfinished">Blue Robotics Power Sense Module R2</translation>
+        <translation>Blue Robotics Power Sense Module R2</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="351"/>
@@ -1180,7 +1180,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="512"/>
         <source>Amps Offset:</source>
-        <translation type="unfinished">Amps Offset:</translation>
+        <translation>Сдвиг величины тока:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="527"/>
@@ -1231,7 +1231,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.cc" line="29"/>
         <source>The Power Component is used to setup battery parameters.</source>
-        <translation>Компонент питания используется для настройки параметров батареи.</translation>
+        <translation>Модуль питания используется для настройки параметров батареи.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="108"/>
         <source>Low mAh threshold:</source>
-        <translation>Низкое напряжения батерии:</translation>
+        <translation>Порог низкого заряда:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="115"/>
         <source>Critical mAh threshold:</source>
-        <translation>Критическое (минимальное) напряжение батерии:</translation>
+        <translation>Порог критическогозаряда:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="136"/>
@@ -3703,7 +3703,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="82"/>
         <source>100%</source>
-        <translation type="unfinished">100%</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="145"/>
@@ -3713,38 +3713,38 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="168"/>
         <source>Battery %1</source>
-        <translation type="unfinished">Battery %1</translation>
+        <translation>Батарея %1</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="169"/>
         <source>Charge State</source>
-        <translation type="unfinished">Charge State</translation>
+        <translation>Состояние заряда</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="170"/>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="171"/>
         <source>Remaining</source>
-        <translation type="unfinished">Remaining</translation>
+        <translation>Осталось</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="172"/>
         <source>Voltage</source>
-        <translation type="unfinished">Voltage</translation>
+        <translation>Напряжение</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="173"/>
         <source>Consumed</source>
-        <translation type="unfinished">Consumed</translation>
+        <translation>Потреблено</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="174"/>
         <source>Temperature</source>
-        <translation type="unfinished">Temperature</translation>
+        <translation>Температура</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="175"/>
         <source>Function</source>
-        <translation type="unfinished">Function</translation>
+        <translation>Функция</translation>
     </message>
 </context>
 <context>
@@ -10413,22 +10413,22 @@ Is this really what you want?</source>
     <message>
         <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="21"/>
         <source>Vehicle Information</source>
-        <translation type="unfinished">Vehicle Information</translation>
+        <translation>Информация об аппарате</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="36"/>
         <source>Specify information about the vehicle you plan to fly. If you are unsure of the correct values leave them as is.</source>
-        <translation type="unfinished">Specify information about the vehicle you plan to fly. If you are unsure of the correct values leave them as is.</translation>
+        <translation>Укажите данные об используемом аппарате. Если вы не уверены, оставьте значения по умолчанию.</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="56"/>
         <source>Firmware</source>
-        <translation type="unfinished">Firmware</translation>
+        <translation>Прошивка</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="68"/>
         <source>Vehicle</source>
-        <translation type="unfinished">Vehicle</translation>
+        <translation>Тип аппарата</translation>
     </message>
 </context>
 <context>
@@ -15296,27 +15296,27 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
         <source>armed</source>
-        <translation type="unfinished">armed</translation>
+        <translation>armed</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
         <source>flying</source>
-        <translation type="unfinished">flying</translation>
+        <translation>полет</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="44"/>
         <source>%1 Setup</source>
-        <translation type="unfinished">%1 Setup</translation>
+        <translation>Настройка компонента &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="66"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Расширенные</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="77"/>
         <source> (Disabled while the vehicle is %1)</source>
-        <translation type="unfinished"> (Disabled while the vehicle is %1)</translation>
+        <translation> (Недоступно пока аппарат находится в режиме &quot;%1&quot;)</translation>
     </message>
 </context>
 <context>
@@ -15369,12 +15369,12 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="254"/>
         <source>PX4Flow</source>
-        <translation type="unfinished">PX4Flow</translation>
+        <translation>PX4Flow</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="265"/>
         <source>Joystick</source>
-        <translation type="unfinished">Joystick</translation>
+        <translation>Геймпад</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="292"/>
@@ -16685,52 +16685,52 @@ Confirm change?</translation>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="21"/>
         <source>Measurement Units</source>
-        <translation type="unfinished">Measurement Units</translation>
+        <translation>Единицы измерения</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="27"/>
         <source>Horizontal Distance</source>
-        <translation type="unfinished">Horizontal Distance</translation>
+        <translation>Длина по горизонтали</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="27"/>
         <source>Vertical Distance</source>
-        <translation type="unfinished">Vertical Distance</translation>
+        <translation>Длина по вертикали</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="27"/>
         <source>Area</source>
-        <translation type="unfinished">Area</translation>
+        <translation>Площадь</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="27"/>
         <source>Speed</source>
-        <translation type="unfinished">Speed</translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="27"/>
         <source>Temperature</source>
-        <translation type="unfinished">Temperature</translation>
+        <translation>Температура</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="64"/>
         <source>Choose the measurement units you want to use. You can also change it later in General Settings.</source>
-        <translation type="unfinished">Choose the measurement units you want to use. You can also change it later in General Settings.</translation>
+        <translation>Выберите единицы измерения. Впоследствии их можно будет изменить в настройках.</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="84"/>
         <source>System of units</source>
-        <translation type="unfinished">System of units</translation>
+        <translation>Система единиц</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="97"/>
         <source>Metric System</source>
-        <translation type="unfinished">Metric System</translation>
+        <translation>Метрическая</translation>
     </message>
     <message>
         <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="97"/>
         <source>Imperial System</source>
-        <translation type="unfinished">Imperial System</translation>
+        <translation>Имперская</translation>
     </message>
 </context>
 <context>
@@ -17484,12 +17484,12 @@ Confirm change?</translation>
     <message>
         <location filename="../src/VehicleSetup/VehicleSummary.qml" line="87"/>
         <source>Below you will find a summary of the settings for your vehicle. To the left are the setup menus for each component.</source>
-        <translation type="unfinished">Below you will find a summary of the settings for your vehicle. To the left are the setup menus for each component.</translation>
+        <translation>Ниже представлена сводка настроек аппарата. Слева появляется меню для каждого компонента.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/VehicleSummary.qml" line="88"/>
         <source>WARNING: Your vehicle requires setup prior to flight. Please resolve the items marked in red using the menu on the left.</source>
-        <translation type="unfinished">WARNING: Your vehicle requires setup prior to flight. Please resolve the items marked in red using the menu on the left.</translation>
+        <translation>ВНИМАНИЕ: Аппарат требует настройки перед запуском. Устраните проблемы, отмеченные красным с помощью меню слева.</translation>
     </message>
 </context>
 <context>
