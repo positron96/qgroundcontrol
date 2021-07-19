@@ -9965,37 +9965,37 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="39"/>
         <source>Warning: Unable to determine motor count</source>
-        <translation type="unfinished">Warning: Unable to determine motor count</translation>
+        <translation>Внимание: невозможно определить количество моторов</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="96"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="122"/>
         <source>Moving the sliders will causes the motors to spin. Make sure you remove all props.</source>
-        <translation type="unfinished">Moving the sliders will causes the motors to spin. Make sure you remove all props.</translation>
+        <translation>Движение слайдеров приведет к тому, что моторы будут вращаться. Убедитесь, что пропеллеры сняиты.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="142"/>
         <source>Propellers are removed - Enable motor sliders</source>
-        <translation type="unfinished">Propellers are removed - Enable motor sliders</translation>
+        <translation>Пропеллеры сняты - активировать слайдеры</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="142"/>
         <source>Careful: Motor sliders are enabled</source>
-        <translation type="unfinished">Careful: Motor sliders are enabled</translation>
+        <translation>Осторожно: слайдеры активны</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.cc" line="14"/>
         <source>Motors</source>
-        <translation type="unfinished">Motors</translation>
+        <translation>Моторы</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/Common/MotorComponent.cc" line="26"/>
         <source>Motors Setup is used to manually test motor control and direction.</source>
-        <translation type="unfinished">Motors Setup is used to manually test motor control and direction.</translation>
+        <translation>Настройка моторов используется для ручной настройки напрвления вращения моторов.</translation>
     </message>
 </context>
 <context>
