@@ -7726,32 +7726,32 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="43"/>
         <source>No Action</source>
-        <translation type="unfinished">No Action</translation>
+        <translation>Ничего</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="44"/>
         <source>Arm</source>
-        <translation>Включить</translation>
+        <translation>Arm</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="45"/>
         <source>Disarm</source>
-        <translation>Выключить</translation>
+        <translation>Disarm</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="46"/>
         <source>Toggle Arm</source>
-        <translation type="unfinished">Toggle Arm</translation>
+        <translation>Arm/Disarm</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="47"/>
         <source>VTOL: Fixed Wing</source>
-        <translation type="unfinished">VTOL: Fixed Wing</translation>
+        <translation>СВВП: фикс. крыло</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="48"/>
         <source>VTOL: Multi-Rotor</source>
-        <translation type="unfinished">VTOL: Multi-Rotor</translation>
+        <translation>СВВП: мультиротор</translation>
     </message>
     <message>
         <location filename="../src/Joystick/Joystick.cc" line="49"/>
@@ -7854,22 +7854,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfig.qml" line="69"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfig.qml" line="72"/>
         <source>Button Assigment</source>
-        <translation type="unfinished">Button Assigment</translation>
+        <translation>Настройка кнопок</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfig.qml" line="75"/>
         <source>Calibration</source>
-        <translation type="unfinished">Calibration</translation>
+        <translation>Калибровка</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfig.qml" line="78"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Расширенные</translation>
     </message>
 </context>
 <context>
@@ -7877,52 +7877,52 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="36"/>
         <source>Full down stick is zero throttle</source>
-        <translation type="unfinished">Full down stick is zero throttle</translation>
+        <translation>Ноль газа в карйнем нижнем положении джойстика</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="42"/>
         <source>Center stick is zero throttle</source>
-        <translation type="unfinished">Center stick is zero throttle</translation>
+        <translation>Ноль газа в среднем положении джойстика</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="49"/>
         <source>Spring loaded throttle smoothing</source>
-        <translation type="unfinished">Spring loaded throttle smoothing</translation>
+        <translation>&quot;Пружинное&quot; сглаживание газа</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="61"/>
         <source>Allow negative Thrust</source>
-        <translation type="unfinished">Allow negative Thrust</translation>
+        <translation>Отрицательное значение газа</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="73"/>
         <source>Exponential:</source>
-        <translation type="unfinished">Exponential:</translation>
+        <translation>Экспоненциальный коэффициент:</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="93"/>
         <source>Enable further advanced settings (careful!)</source>
-        <translation type="unfinished">Enable further advanced settings (careful!)</translation>
+        <translation>Показать низкоуровневые настройки (менять с осторожностью!)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="109"/>
         <source>Axis frequency (Hz):</source>
-        <translation type="unfinished">Axis frequency (Hz):</translation>
+        <translation>Частота осей (Hz):</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="127"/>
         <source>Button repeat frequency (Hz):</source>
-        <translation type="unfinished">Button repeat frequency (Hz):</translation>
+        <translation>Частота повтора кнопок (Hz):</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="145"/>
         <source>Enable circle correction</source>
-        <translation type="unfinished">Enable circle correction</translation>
+        <translation>Включить круговую коррекцию</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="163"/>
         <source>Deadbands</source>
-        <translation type="unfinished">Deadbands</translation>
+        <translation>Мертвые зоны</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="180"/>
@@ -7950,27 +7950,27 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="45"/>
         <source>Assigning the same action to multiple buttons requires the press of all those buttons for the action to be taken. This is useful to prevent accidental button presses for critical actions like Arm or Emergency Stop.</source>
-        <translation type="unfinished">Assigning the same action to multiple buttons requires the press of all those buttons for the action to be taken. This is useful to prevent accidental button presses for critical actions like Arm or Emergency Stop.</translation>
+        <translation>Назначение одного действия нескольким кнопкам требует одновременного нажатия всех этих кнопок. Это удобно для предотвращения случайного запуска критических операций, таких как аварийная остановка или переход в состояние &quot;Arm&quot;.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="93"/>
         <source>Repeat</source>
-        <translation type="unfinished">Repeat</translation>
+        <translation>Повтор</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="123"/>
         <source>#</source>
-        <translation type="unfinished">#</translation>
+        <translation>#</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="127"/>
         <source>Function: </source>
-        <translation type="unfinished">Function: </translation>
+        <translation>Функция: </translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="131"/>
         <source>Shift Function: </source>
-        <translation type="unfinished">Shift Function: </translation>
+        <translation>Доп. функция: </translation>
     </message>
 </context>
 <context>
@@ -7978,22 +7978,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="169"/>
         <source>Skip</source>
-        <translation type="unfinished">Skip</translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="175"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="187"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Далее</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="187"/>
         <source>Start</source>
-        <translation type="unfinished">Start</translation>
+        <translation>Начать</translation>
     </message>
 </context>
 <context>
@@ -8001,7 +8001,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigController.cc" line="197"/>
         <source>Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</source>
-        <translation type="unfinished">Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</translation>
+        <translation>На джойстике обнаружно осей: %1. Для управления аппаратом PX4 необходимо минимум %2 осей.</translation>
     </message>
 </context>
 <context>
@@ -8009,57 +8009,57 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="38"/>
         <source>Enable joystick input</source>
-        <translation type="unfinished">Enable joystick input</translation>
+        <translation>Включить джойстик</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="38"/>
         <source>Enable not allowed (Calibrate First)</source>
-        <translation type="unfinished">Enable not allowed (Calibrate First)</translation>
+        <translation>Невозможно включить джойстик (сначала выполните калибровку)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="67"/>
         <source>Active joystick:</source>
-        <translation type="unfinished">Active joystick:</translation>
+        <translation>Активный джойстик:</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="79"/>
         <source>Active joystick name not in combo</source>
-        <translation type="unfinished">Active joystick name not in combo</translation>
+        <translation>Активного джойстика нет в списке</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="97"/>
         <source>RC Mode:</source>
-        <translation type="unfinished">RC Mode:</translation>
+        <translation>Режим RC:</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="151"/>
         <source>Lateral</source>
-        <translation type="unfinished">Lateral</translation>
+        <translation>Движение вбок</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="151"/>
         <source>Roll</source>
-        <translation type="unfinished">Roll</translation>
+        <translation>Крен</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="165"/>
         <source>Forward</source>
-        <translation type="unfinished">Forward</translation>
+        <translation>Движение вперед/назад</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="165"/>
         <source>Pitch</source>
-        <translation type="unfinished">Pitch</translation>
+        <translation>Тангаж</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="178"/>
         <source>Yaw</source>
-        <translation type="unfinished">Yaw</translation>
+        <translation>Рысканье</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="191"/>
         <source>Throttle</source>
-        <translation type="unfinished">Throttle</translation>
+        <translation>Газ</translation>
     </message>
 </context>
 <context>
