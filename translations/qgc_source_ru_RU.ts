@@ -5301,22 +5301,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/comm/QGCMAVLink.cc" line="73"/>
         <source>PX4 Pro</source>
-        <translation type="unfinished">PX4 Pro</translation>
+        <translation>PX4 Pro</translation>
     </message>
     <message>
         <location filename="../src/comm/QGCMAVLink.cc" line="75"/>
         <source>ArduPilot</source>
-        <translation type="unfinished">ArduPilot</translation>
+        <translation>ArduPilot</translation>
     </message>
     <message>
         <location filename="../src/comm/QGCMAVLink.cc" line="77"/>
         <source>Generic</source>
-        <translation type="unfinished">Generic</translation>
+        <translation>Общая</translation>
     </message>
     <message>
         <location filename="../src/comm/QGCMAVLink.cc" line="79"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknown</translation>
+        <translation>Неизвестная</translation>
     </message>
 </context>
 <context>
@@ -5430,57 +5430,57 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="379"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="396"/>
         <source>Canon</source>
-        <translation type="unfinished">Canon</translation>
+        <translation>Canon</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="346"/>
         <source>S100 PowerShot</source>
-        <translation type="unfinished">S100 PowerShot</translation>
+        <translation>S100 PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="355"/>
         <source>Canon S100 PowerShot</source>
-        <translation type="unfinished">Canon S100 PowerShot</translation>
+        <translation>Canon S100 PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="363"/>
         <source>EOS-M 22mm</source>
-        <translation type="unfinished">EOS-M 22mm</translation>
+        <translation>EOS-M 22mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="372"/>
         <source>Canon EOS-M 22mm</source>
-        <translation type="unfinished">Canon EOS-M 22mm</translation>
+        <translation>Canon EOS-M 22mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="380"/>
         <source>G9 X PowerShot</source>
-        <translation type="unfinished">G9 X PowerShot</translation>
+        <translation>G9 X PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="389"/>
         <source>Canon G9 X PowerShot</source>
-        <translation type="unfinished">Canon G9 X PowerShot</translation>
+        <translation>Canon G9 X PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="397"/>
         <source>SX260 HS PowerShot</source>
-        <translation type="unfinished">SX260 HS PowerShot</translation>
+        <translation>SX260 HS PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="406"/>
         <source>Canon SX260 HS PowerShot</source>
-        <translation type="unfinished">Canon SX260 HS PowerShot</translation>
+        <translation>Canon SX260 HS PowerShot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="412"/>
         <source>GoPro</source>
-        <translation type="unfinished">GoPro</translation>
+        <translation>GoPro</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="413"/>
         <source>Hero 4</source>
-        <translation type="unfinished">Hero 4</translation>
+        <translation>Hero 4</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="422"/>
@@ -5491,75 +5491,75 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="428"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="444"/>
         <source>Parrot</source>
-        <translation type="unfinished">Parrot</translation>
+        <translation>Parrot</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="429"/>
         <source>Sequioa RGB</source>
-        <translation type="unfinished">Sequioa RGB</translation>
+        <translation>Sequioa RGB</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="438"/>
         <source>Parrot Sequioa RGB</source>
-        <translation type="unfinished">Parrot Sequioa RGB</translation>
+        <translation>Parrot Sequioa RGB</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="445"/>
         <source>Sequioa Monochrome</source>
-        <translation type="unfinished">Sequioa Monochrome</translation>
+        <translation>Sequioa Monochrome</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="454"/>
         <source>Parrot Sequioa Monochrome</source>
-        <translation type="unfinished">Parrot Sequioa Monochrome</translation>
+        <translation>Parrot Sequioa Monochrome</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="460"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="461"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="470"/>
         <source>RedEdge</source>
-        <translation type="unfinished">RedEdge</translation>
+        <translation>RedEdge</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="477"/>
         <source>Ricoh</source>
-        <translation type="unfinished">Ricoh</translation>
+        <translation>Ricoh</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="478"/>
         <source>GR II</source>
-        <translation type="unfinished">GR II</translation>
+        <translation>GR II</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="487"/>
         <source>Ricoh GR II</source>
-        <translation type="unfinished">Ricoh GR II</translation>
+        <translation>Ricoh GR II</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="493"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="509"/>
         <source>Sentera</source>
-        <translation type="unfinished">Sentera</translation>
+        <translation>Sentera</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="494"/>
         <source>Double 4K Sensor</source>
-        <translation type="unfinished">Double 4K Sensor</translation>
+        <translation>Double 4K Sensor</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="503"/>
         <source>Sentera Double 4K Sensor</source>
-        <translation type="unfinished">Sentera Double 4K Sensor</translation>
+        <translation>Sentera Double 4K Sensor</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="510"/>
         <source>NDVI Single Sensor</source>
-        <translation type="unfinished">NDVI Single Sensor</translation>
+        <translation>NDVI Single Sensor</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="519"/>
         <source>Sentera NDVI Single Sensor</source>
-        <translation type="unfinished">Sentera NDVI Single Sensor</translation>
+        <translation>Sentera NDVI Single Sensor</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="527"/>
@@ -5577,127 +5577,127 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="724"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="741"/>
         <source>Sony</source>
-        <translation type="unfinished">Sony</translation>
+        <translation>Sony</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="528"/>
         <source>a6000 16mm</source>
-        <translation type="unfinished">a6000 16mm</translation>
+        <translation>a6000 16mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="537"/>
         <source>Sony a6000 16mm</source>
-        <translation type="unfinished">Sony a6000 16mm</translation>
+        <translation>Sony a6000 16mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="544"/>
         <source>a6000 35mm</source>
-        <translation type="unfinished">a6000 35mm</translation>
+        <translation>a6000 35mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="560"/>
         <source>a6300 Zeiss 21mm f/2.8</source>
-        <translation type="unfinished">a6300 Zeiss 21mm f/2.8</translation>
+        <translation>a6300 Zeiss 21mm f/2.8</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="569"/>
         <source>Sony a6300 Zeiss 21mm f/2.8</source>
-        <translation type="unfinished">Sony a6300 Zeiss 21mm f/2.8</translation>
+        <translation>Sony a6300 Zeiss 21mm f/2.8</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="576"/>
         <source>a6300 Sony 28mm f/2.0</source>
-        <translation type="unfinished">a6300 Sony 28mm f/2.0</translation>
+        <translation>a6300 Sony 28mm f/2.0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="585"/>
         <source>Sony a6300 Sony 28mm f/2.0</source>
-        <translation type="unfinished">Sony a6300 Sony 28mm f/2.0</translation>
+        <translation>Sony a6300 Sony 28mm f/2.0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="592"/>
         <source>a7R II Zeiss 21mm f/2.8</source>
-        <translation type="unfinished">a7R II Zeiss 21mm f/2.8</translation>
+        <translation>a7R II Zeiss 21mm f/2.8</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="601"/>
         <source>Sony a7R II Zeiss 21mm f/2.8</source>
-        <translation type="unfinished">Sony a7R II Zeiss 21mm f/2.8</translation>
+        <translation>Sony a7R II Zeiss 21mm f/2.8</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="608"/>
         <source>a7R II Sony 28mm f/2.0</source>
-        <translation type="unfinished">a7R II Sony 28mm f/2.0</translation>
+        <translation>a7R II Sony 28mm f/2.0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="617"/>
         <source>Sony a7R II Sony 28mm f/2.0</source>
-        <translation type="unfinished">Sony a7R II Sony 28mm f/2.0</translation>
+        <translation>Sony a7R II Sony 28mm f/2.0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="624"/>
         <source>a7r III 35mm</source>
-        <translation type="unfinished">a7r III 35mm</translation>
+        <translation>a7r III 35mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="640"/>
         <source>a7r IV 35mm</source>
-        <translation type="unfinished">a7r IV 35mm</translation>
+        <translation>a7r IV 35mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="656"/>
         <source>DSC-QX30U @ 4.3mm f/3.5</source>
-        <translation type="unfinished">DSC-QX30U @ 4.3mm f/3.5</translation>
+        <translation>DSC-QX30U @ 4.3mm f/3.5</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="665"/>
         <source>Sony DSC-QX30U @ 4.3mm f/3.5</source>
-        <translation type="unfinished">Sony DSC-QX30U @ 4.3mm f/3.5</translation>
+        <translation>Sony DSC-QX30U @ 4.3mm f/3.5</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="672"/>
         <source>DSC-RX0</source>
-        <translation type="unfinished">DSC-RX0</translation>
+        <translation>DSC-RX0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="681"/>
         <source>Sony DSC-RX0</source>
-        <translation type="unfinished">Sony DSC-RX0</translation>
+        <translation>Sony DSC-RX0</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="688"/>
         <source>DSC-RX1R II 35mm</source>
-        <translation type="unfinished">DSC-RX1R II 35mm</translation>
+        <translation>DSC-RX1R II 35mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="707"/>
         <source>ILCE-QX1</source>
-        <translation type="unfinished">ILCE-QX1</translation>
+        <translation>ILCE-QX1</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="716"/>
         <source>Sony ILCE-QX1</source>
-        <translation type="unfinished">Sony ILCE-QX1</translation>
+        <translation>Sony ILCE-QX1</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="725"/>
         <source>NEX-5R 20mm</source>
-        <translation type="unfinished">NEX-5R 20mm</translation>
+        <translation>NEX-5R 20mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="734"/>
         <source>Sony NEX-5R 20mm</source>
-        <translation type="unfinished">Sony NEX-5R 20mm</translation>
+        <translation>Sony NEX-5R 20mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="742"/>
         <source>RX100 II 28mm</source>
-        <translation type="unfinished">RX100 II 28mm</translation>
+        <translation>RX100 II 28mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="751"/>
         <source>Sony RX100 II 28mm</source>
-        <translation type="unfinished">Sony RX100 II 28mm</translation>
+        <translation>Sony RX100 II 28mm</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="757"/>
@@ -5705,67 +5705,67 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="789"/>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="805"/>
         <source>Yuneec</source>
-        <translation type="unfinished">Yuneec</translation>
+        <translation>Yuneec</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="758"/>
         <source>CGOET</source>
-        <translation type="unfinished">CGOET</translation>
+        <translation>CGOET</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="767"/>
         <source>Yuneec CGOET</source>
-        <translation type="unfinished">Yuneec CGOET</translation>
+        <translation>Yuneec CGOET</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="774"/>
         <source>E10T</source>
-        <translation type="unfinished">E10T</translation>
+        <translation>E10T</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="783"/>
         <source>Yuneec E10T</source>
-        <translation type="unfinished">Yuneec E10T</translation>
+        <translation>Yuneec E10T</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="790"/>
         <source>E50</source>
-        <translation type="unfinished">E50</translation>
+        <translation>E50</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="799"/>
         <source>Yuneec E50</source>
-        <translation type="unfinished">Yuneec E50</translation>
+        <translation>Yuneec E50</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="806"/>
         <source>E90</source>
-        <translation type="unfinished">E90</translation>
+        <translation>E90</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="815"/>
         <source>Yuneec E90</source>
-        <translation type="unfinished">Yuneec E90</translation>
+        <translation>Yuneec E90</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="821"/>
         <source>Flir</source>
-        <translation type="unfinished">Flir</translation>
+        <translation>Flir</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="822"/>
         <source>Duo R</source>
-        <translation type="unfinished">Duo R</translation>
+        <translation>Duo R</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="831"/>
         <source>Flir Duo R</source>
-        <translation type="unfinished">Flir Duo R</translation>
+        <translation>Flir Duo R</translation>
     </message>
     <message>
         <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="996"/>
         <source>Vehicle is not running latest stable firmware! Running %1, latest stable is %2.</source>
-        <translation type="unfinished">Vehicle is not running latest stable firmware! Running %1, latest stable is %2.</translation>
+        <translation>На аппарате не самая последняя версия прошивки! На аппарате: %1, последняя стабильная версия: %2.</translation>
     </message>
 </context>
 <context>
@@ -5797,22 +5797,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="52"/>
         <source>If upgrade failed, make sure to connect %1directly%2 to a powered USB port on your computer, not through a USB hub. Also make sure you are only powered via USB, %1not battery%2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если обновление не работает, удостоверьтесь, что устройство подключено %1напрямую%2, а не через USB-хаб, и что устройство питается только от USB, %1не от батареи%2.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="54"/>
         <source>All %1 connections to vehicles must be %2disconnected%3 prior to firmware upgrade.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все устройства должны быть %2отключены%3 до обновления прошивки.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="50"/>
         <source>%1Plug in your device%2 via USB to %1start%2 firmware upgrade.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1Подключите устройство%2 по USB, чтобы %1начать%2 обновление прошивки.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="57"/>
         <source>Please unplug your Pixhawk and/or Radio from USB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключите устройство.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="75"/>
@@ -5947,12 +5947,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="466"/>
         <source>WARNING: BETA FIRMWARE. This firmware version is ONLY intended for beta testers. Although it has received FLIGHT TESTING, it represents actively changed code. Do NOT use for normal operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ОСТОРОЖНО: БЕТА-ВЕРСИЯ ПРОШИВКИ. Эта прошивка предназначена ТОЛЬКО для бета-тестеров. Хотя она БЫЛА ПРОТЕСТИРОВАНА В ПОЛЕТЕ, она основана на активно изменяемом коде. НЕ для повседневного использования.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="472"/>
         <source>WARNING: CONTINUOUS BUILD FIRMWARE. This firmware has NOT BEEN FLIGHT TESTED. It is only intended for DEVELOPERS. Run bench tests without props first. Do NOT fly this without additional safety precautions. Follow the forums actively when using it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ОСТОРОЖНО: ПРОШИВКА РАЗРАБОТЧИКА. Эта прошивка НЕ БЫЛА ПРОТЕСТИРОВАНА В ПОЛЕТЕ. Предназначена только для РАЗРАБОТЧИКОВ. Проведите тесты без пропеллеров. НЕ летайте без дополнительных мер безопасности. Дополнительная информация на форуме.</translation>
     </message>
     <message>
         <source>WARNING: BETA FIRMWARE. </source>
@@ -6025,12 +6025,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="280"/>
         <source>  Flash size: %1</source>
-        <translation>  Размер Flash: %1</translation>
+        <translation>  Размер флэш-памяти: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="363"/>
         <source>Custom firmware selected but no filename given.</source>
-        <translation type="unfinished">Custom firmware selected but no filename given.</translation>
+        <translation>Не задано имя файла для пользовательской прошивки.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="368"/>
@@ -6050,7 +6050,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="386"/>
         <source> From: %1</source>
-        <translation type="unfinished"> From: %1</translation>
+        <translation> Из: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="407"/>
@@ -6060,7 +6060,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="415"/>
         <source>Image load failed</source>
-        <translation type="unfinished">Image load failed</translation>
+        <translation>Ошибка загрузки образа</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="421"/>
@@ -6070,7 +6070,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="426"/>
         <source>Image size of %1 is too large for board flash size %2</source>
-        <translation type="unfinished">Image size of %1 is too large for board flash size %2</translation>
+        <translation>Образ слишком большой (%1) для платы (размер флэш-памяти: %2)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="458"/>
@@ -6085,7 +6085,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="592"/>
         <source>Choose board type</source>
-        <translation type="unfinished">Choose board type</translation>
+        <translation>Выберите тип платы</translation>
     </message>
 </context>
 <context>
