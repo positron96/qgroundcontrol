@@ -121,7 +121,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="221"/>
         <source>Gimbal %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ось подвеса &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.qml" line="239"/>
