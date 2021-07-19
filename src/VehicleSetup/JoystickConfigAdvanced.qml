@@ -177,10 +177,10 @@ Item {
             font.pointSize:     ScreenTools.smallFontPointSize
             wrapMode:           Text.WordWrap
             visible:            advancedSettings.checked
-            text:   qsTr("Deadband can be set during the first ") +
-                    qsTr("step of calibration by gently wiggling each axis. ") +
-                    qsTr("Deadband can also be adjusted by clicking and ") +
-                    qsTr("dragging vertically on the corresponding axis monitor.")
+            text:   qsTr("Deadband can be set during the first "+
+                         "step of calibration by gently wiggling each axis. " +
+                         "Deadband can also be adjusted by clicking and "+
+                         "dragging vertically on the corresponding axis monitor.")
         }
     }
 }

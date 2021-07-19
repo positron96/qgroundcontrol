@@ -7926,23 +7926,24 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     </message>
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="180"/>
+        <source>Deadband can be set during the first step of calibration by gently wiggling each axis. Deadband can also be adjusted by clicking and dragging vertically on the corresponding axis monitor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Deadband can be set during the first </source>
-        <translation type="unfinished">Deadband can be set during the first </translation>
+        <translation type="obsolete">Deadband can be set during the first </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="181"/>
         <source>step of calibration by gently wiggling each axis. </source>
-        <translation type="unfinished">step of calibration by gently wiggling each axis. </translation>
+        <translation type="obsolete">step of calibration by gently wiggling each axis. </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="182"/>
         <source>Deadband can also be adjusted by clicking and </source>
-        <translation type="unfinished">Deadband can also be adjusted by clicking and </translation>
+        <translation type="obsolete">Deadband can also be adjusted by clicking and </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="183"/>
         <source>dragging vertically on the corresponding axis monitor.</source>
-        <translation type="unfinished">dragging vertically on the corresponding axis monitor.</translation>
+        <translation type="obsolete">dragging vertically on the corresponding axis monitor.</translation>
     </message>
 </context>
 <context>
