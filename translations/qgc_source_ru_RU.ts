@@ -11707,108 +11707,108 @@ Is this really what you want?</source>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="63"/>
         <source>Search:</source>
-        <translation type="unfinished">Search:</translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="74"/>
         <source>Clear</source>
-        <translation type="unfinished">Clear</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="85"/>
         <source>Show modified only</source>
-        <translation type="unfinished">Show modified only</translation>
+        <translation>Показывать только измененные</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="97"/>
         <source>Tools</source>
-        <translation type="unfinished">Tools</translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="105"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="109"/>
         <source>Reset all to firmware&apos;s defaults</source>
-        <translation type="unfinished">Reset all to firmware&apos;s defaults</translation>
+        <translation>Сброс к начальным настройкам прошивки</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="110"/>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="115"/>
         <source>Reset All</source>
-        <translation type="unfinished">Reset All</translation>
+        <translation>Сброс настроек</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="113"/>
         <source>Reset to vehicle&apos;s configuration defaults</source>
-        <translation type="unfinished">Reset to vehicle&apos;s configuration defaults</translation>
+        <translation>Сброс к начальным настройкам аппарата</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="119"/>
         <source>Load from file...</source>
-        <translation type="unfinished">Load from file...</translation>
+        <translation>Загрузить из файла...</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="121"/>
         <source>Load Parameters</source>
-        <translation type="unfinished">Load Parameters</translation>
+        <translation>Загрузка параметров</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="127"/>
         <source>Save to file...</source>
-        <translation type="unfinished">Save to file...</translation>
+        <translation>Сохранить в файл...</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="129"/>
         <source>Save Parameters</source>
-        <translation type="unfinished">Save Parameters</translation>
+        <translation>Сохранение параметров</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="136"/>
         <source>Clear all RC to Param</source>
-        <translation type="unfinished">Clear all RC to Param</translation>
+        <translation>Очистить параметры RC</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="284"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">All Files (*)</translation>
+        <translation>Все файлы (*)</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="318"/>
         <source>Select Reset to reset all parameters to their defaults.
 
 Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</source>
-        <translation type="unfinished">Select Reset to reset all parameters to their defaults.
+        <translation>Нажмите &quot;Сброс&quot; для сброса параметров в начальное состояние.
 
-Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</translation>
+Будут сброшены ВСЕ настройки, включая узлы UAVCAN, параметры аппарата и калибровки.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="142"/>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="143"/>
         <source>Reboot Vehicle</source>
-        <translation type="unfinished">Reboot Vehicle</translation>
+        <translation>Перезагрузить аппарат</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="275"/>
         <source>Parameter Editor</source>
-        <translation type="unfinished">Parameter Editor</translation>
+        <translation>Редактор параметров</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="284"/>
         <source>Parameter Files (*.%1)</source>
-        <translation type="unfinished">Parameter Files (*.%1)</translation>
+        <translation>Файлы параметров (*.%1)</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="333"/>
         <source>Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</source>
-        <translation type="unfinished">Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</translation>
+        <translation>Нажмите &quot;Сброс&quot; для сброса параметров в начальное состояние.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditor.qml" line="350"/>
         <source>Select Ok to reboot vehicle.</source>
-        <translation type="unfinished">Select Ok to reboot vehicle.</translation>
+        <translation>Нажмите &quot;ОК&quot; для перезагрузки аппарата.</translation>
     </message>
 </context>
 <context>
