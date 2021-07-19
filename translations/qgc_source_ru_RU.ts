@@ -5783,7 +5783,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="47"/>
         <source>%1 can upgrade the firmware on Pixhawk devices, SiK Radios and PX4 Flow Smart Cameras.</source>
-        <translation type="unfinished">%1 can upgrade the firmware on Pixhawk devices, SiK Radios and PX4 Flow Smart Cameras.</translation>
+        <translation>%1 может обновить прошивку на устройствах PixHawk, SiK Radio, PX4 Flow Smart Camera.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="48"/>
@@ -5793,7 +5793,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="52"/>
         <source>All %1 connections to vehicles must be </source>
-        <translation type="unfinished">All %1 connections to vehicles must be </translation>
+        <translation>Все подключения (%1) к аппаратам </translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="70"/>
@@ -5803,22 +5803,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="82"/>
         <source>Select Firmware File</source>
-        <translation type="unfinished">Select Firmware File</translation>
+        <translation>Выбор файла прошивки</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="83"/>
         <source>Firmware Files (*.px4 *.apj *.bin *.ihx)</source>
-        <translation type="unfinished">Firmware Files (*.px4 *.apj *.bin *.ihx)</translation>
+        <translation>Файлы прошивки (*.px4 *.apj *.bin *.ihx)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="83"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">All Files (*)</translation>
+        <translation>Все файлы (*)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="127"/>
         <source>Multiple devices detected! Remove all detected devices to perform the firmware upgrade.</source>
-        <translation type="unfinished">Multiple devices detected! Remove all detected devices to perform the firmware upgrade.</translation>
+        <translation>Обнаружно несколько устройств! Отключите все устройства для обновления прошивки.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="128"/>
@@ -5834,7 +5834,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="177"/>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="331"/>
         <source>PX4 Pro </source>
-        <translation type="unfinished">PX4 Pro </translation>
+        <translation>PX4 Pro </translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="242"/>
@@ -5883,7 +5883,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="314"/>
         <source>Detected Pixhawk board. You can select from the following flight stacks:</source>
-        <translation type="unfinished">Detected Pixhawk board. You can select from the following flight stacks:</translation>
+        <translation>Обнаружно устройство PixHawk. Вы можете выбрать следующее полетное ПО:</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="315"/>
@@ -5893,17 +5893,17 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="318"/>
         <source>Flight Stack</source>
-        <translation type="unfinished">Flight Stack</translation>
+        <translation>Полетное ПО</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="386"/>
         <source>Downloading list of available firmwares...</source>
-        <translation type="unfinished">Downloading list of available firmwares...</translation>
+        <translation>Загрузка списка доступных прошивок...</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="394"/>
         <source>No Firmware Available</source>
-        <translation type="unfinished">No Firmware Available</translation>
+        <translation>Нет доступных прошивок</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="422"/>
@@ -5928,7 +5928,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="461"/>
         <source>WARNING: BETA FIRMWARE. </source>
-        <translation type="unfinished">WARNING: BETA FIRMWARE. </translation>
+        <translation>ОСТОРОЖНО: БЕТА-ВЕРСИЯ ПРОШИВКИ. </translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="462"/>
