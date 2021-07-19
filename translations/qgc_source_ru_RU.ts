@@ -294,12 +294,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="198"/>
         <source>Show all settings (advanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать все настройки</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="203"/>
         <source>Camera mount tilt speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость подвеса:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMCameraSubComponent.qml" line="282"/>
@@ -14996,27 +14996,27 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="41"/>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="42"/>
         <source>If the orientation is in the direction of flight, select ROTATION_NONE.</source>
-        <translation type="unfinished">If the orientation is in the direction of flight, select ROTATION_NONE.</translation>
+        <translation>Если контроллер ориентирован в направлении полета, выберите ROTATION_NONE.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="48"/>
         <source>For Airspeed calibration you will need to keep your airspeed sensor out of any wind and then blow across the sensor. Do not touch the sensor or obstruct any holes during the calibration.</source>
-        <translation type="unfinished">For Airspeed calibration you will need to keep your airspeed sensor out of any wind and then blow across the sensor. Do not touch the sensor or obstruct any holes during the calibration.</translation>
+        <translation>Для калибровки воздушной скорости необходимо закрыть датчик от лубого ветра, а затем подуть вдоль датчика. Не трогайте датчик и не перекрывайте отверстия в процессе калибровки.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="50"/>
         <source>Start the individual calibration steps by clicking one of the buttons to the left.</source>
-        <translation type="unfinished">Start the individual calibration steps by clicking one of the buttons to the left.</translation>
+        <translation>Начните калибровку каждого сенсора, нажав соответствующую кнопку справа.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="201"/>
         <source>Compass Calibration Complete</source>
-        <translation type="unfinished">Compass Calibration Complete</translation>
+        <translation>Калибровка компаса завершена</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="206"/>
         <source>Calibration Cancel</source>
-        <translation type="unfinished">Calibration Cancel</translation>
+        <translation>Отмена калибровки</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
@@ -15026,77 +15026,77 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
         <source>Performing sensor calibration over a WiFi connection is known to be unreliable. You should disconnect and perform calibration using a direct USB connection instead.</source>
-        <translation type="unfinished">Performing sensor calibration over a WiFi connection is known to be unreliable. You should disconnect and perform calibration using a direct USB connection instead.</translation>
+        <translation>Калибровка при подключении по WiFi работает нестабильно. Рекомендуется проводить калибровку, подключив контроллер напрямую по USB.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="222"/>
         <source>Waiting for Vehicle to response to Cancel. This may take a few seconds.</source>
-        <translation type="unfinished">Waiting for Vehicle to response to Cancel. This may take a few seconds.</translation>
+        <translation>От аппарата ожидается реакция на отмену. Может потребоваться несколько секунд.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="272"/>
         <source>Set autopilot orientation before calibrating.</source>
-        <translation type="unfinished">Set autopilot orientation before calibrating.</translation>
+        <translation>Установите ориентацию автопилота перед калибровкой.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="332"/>
         <source>Reboot Vehicle</source>
-        <translation>Перезагрузить устройство</translation>
+        <translation>Перезагрузить аппарат</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="44"/>
         <source>For Compass calibration you will need to rotate your vehicle through a number of positions.</source>
-        <translation type="unfinished">For Compass calibration you will need to rotate your vehicle through a number of positions.</translation>
+        <translation>Для калибровки компаса необходимо будет вращать аппарат в разные стороны.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="45"/>
         <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</source>
-        <translation type="unfinished">For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</translation>
+        <translation>Для калибровки гироскопа необходимо будет поставить аппарат на горизонтальную поверхность и оставить его стоять без движения.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="46"/>
         <source>For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</source>
-        <translation type="unfinished">For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</translation>
+        <translation>Для калибровки акселерометра необходимо будет положить аппарат на горизонтальную поверхность каждой из 6 сторон и сохранять эти положения по несколько секунд.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="47"/>
         <source>To level the horizon you need to place the vehicle in its level flight position and leave still.</source>
-        <translation type="unfinished">To level the horizon you need to place the vehicle in its level flight position and leave still.</translation>
+        <translation>Для выравнивания горизонта необходимо будет установить аппарат в полетное состояние и оставить его в таком положении.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="278"/>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="353"/>
         <source>Autopilot Orientation</source>
-        <translation type="unfinished">Autopilot Orientation</translation>
+        <translation>Ориентация автопилота</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="289"/>
         <source>ROTATION_NONE indicates component points in direction of flight.</source>
-        <translation type="unfinished">ROTATION_NONE indicates component points in direction of flight.</translation>
+        <translation>Значение ROTATION_NONE указывает, что компонент направлен в сторону полета.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="296"/>
         <source>Click Ok to start calibration.</source>
-        <translation type="unfinished">Click Ok to start calibration.</translation>
+        <translation>Нажмите OK для начала калибровки.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="327"/>
         <source>Reboot the vehicle prior to flight.</source>
-        <translation type="unfinished">Reboot the vehicle prior to flight.</translation>
+        <translation>Перезагрузите аппарат перед полетом.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="343"/>
         <source>Adjust orientations as needed.
 
 ROTATION_NONE indicates component points in direction of flight.</source>
-        <translation type="unfinished">Adjust orientations as needed.
+        <translation>Настройте ориентации компонентов, если необходимо.
 
-ROTATION_NONE indicates component points in direction of flight.</translation>
+Значение ROTATION_NONE указывает, что компонент направлен в сторону полета.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="374"/>
         <source>Mag %1 Orientation</source>
-        <translation type="unfinished">Mag %1 Orientation</translation>
+        <translation>Ориентация магнетометра %1</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="403"/>
@@ -15121,28 +15121,28 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="431"/>
         <source>Accelerometer</source>
-        <translation type="unfinished">Accelerometer</translation>
+        <translation>Акселерометр</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="438"/>
         <source>Calibrate Accelerometer</source>
-        <translation type="unfinished">Calibrate Accelerometer</translation>
+        <translation>Калибровка акселерометра</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="445"/>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="453"/>
         <source>Level Horizon</source>
-        <translation type="unfinished">Level Horizon</translation>
+        <translation>Выровнять горизонт</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="460"/>
         <source>Airspeed</source>
-        <translation type="unfinished">Airspeed</translation>
+        <translation>Воздушная скорость</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="471"/>
         <source>Calibrate Airspeed</source>
-        <translation type="unfinished">Calibrate Airspeed</translation>
+        <translation>Калибровка воздушной скорости</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="478"/>
@@ -15157,7 +15157,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="495"/>
         <source>Orientations</source>
-        <translation type="unfinished">Orientations</translation>
+        <translation>Ориентации</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="501"/>
@@ -15172,7 +15172,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="612"/>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="621"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>Поверните</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="576"/>
@@ -15182,7 +15182,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="612"/>
         <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="621"/>
         <source>Hold Still</source>
-        <translation type="unfinished">Hold Still</translation>
+        <translation>Держите не двигая</translation>
     </message>
 </context>
 <context>
