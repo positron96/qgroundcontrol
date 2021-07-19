@@ -16849,6 +16849,11 @@ Confirm change?</translation>
         <source>Pounds</source>
         <translation>Фунты</translation>
     </message>
+    <message>
+        <location filename="../src/Settings/UnitsSettings.cc" line="201"/>
+        <source>Weight units</source>
+        <translation>Единицы массы</translation>
+    </message>
 </context>
 <context>
     <name>VTOLChecklist</name>
