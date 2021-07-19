@@ -1735,22 +1735,22 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="69"/>
         <source>Failsafe Actions</source>
-        <translation>Действия при fail-safe</translation>
+        <translation>Действия при различных событиях</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="95"/>
         <source>GCS Heartbeat:</source>
-        <translation>Heartbeat&apos;ы наземной станции:</translation>
+        <translation>Потеря связи с наземной станцией:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="114"/>
         <source>Leak:</source>
-        <translation>Утечка:</translation>
+        <translation>Протечка:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="126"/>
         <source>Detector Pin:</source>
-        <translation>Контакт детектора:</translation>
+        <translation>Вход детектора:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="164"/>
@@ -1765,7 +1765,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="246"/>
         <source>Pilot Input:</source>
-        <translation>Ввод пилота:</translation>
+        <translation>Отсутствие событий от оператора:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="280"/>
@@ -14653,14 +14653,14 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="188"/>
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="600"/>
         <source>Disabled</source>
-        <translation type="unfinished">Disabled</translation>
+        <translation>Выключено</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="170"/>
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="188"/>
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="600"/>
         <source>Enabled</source>
-        <translation type="unfinished">Enabled</translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="184"/>
