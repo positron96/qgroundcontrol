@@ -5791,192 +5791,211 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <translation>Обновите прошивку полетного контроллера до последней версии</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="52"/>
         <source>All %1 connections to vehicles must be </source>
-        <translation>Все подключения (%1) к аппаратам </translation>
+        <translation type="vanished">Все подключения (%1) к аппаратам </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="70"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="52"/>
+        <source>If upgrade failed, make sure to connect %1directly%2 to a powered USB port on your computer, not through a USB hub. Also make sure you are only powered via USB, %1not battery%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="54"/>
+        <source>All %1 connections to vehicles must be %2disconnected%3 prior to firmware upgrade.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="50"/>
+        <source>%1Plug in your device%2 via USB to %1start%2 firmware upgrade.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="57"/>
+        <source>Please unplug your Pixhawk and/or Radio from USB.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="75"/>
         <source>Upgrade cancelled</source>
         <translation>Обновление отменено</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="82"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="87"/>
         <source>Select Firmware File</source>
         <translation>Выбор файла прошивки</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="83"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="88"/>
         <source>Firmware Files (*.px4 *.apj *.bin *.ihx)</source>
         <translation>Файлы прошивки (*.px4 *.apj *.bin *.ihx)</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="83"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="88"/>
         <source>All Files (*)</source>
         <translation>Все файлы (*)</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="127"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="132"/>
         <source>Multiple devices detected! Remove all detected devices to perform the firmware upgrade.</source>
         <translation>Обнаружно несколько устройств! Отключите все устройства для обновления прошивки.</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="128"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="133"/>
         <source>Detected [%1]: </source>
         <translation>Обнаружено [%1]: </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="135"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="140"/>
         <source>Found device</source>
         <translation>Найдено устройство</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="177"/>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="331"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="182"/>
         <source>PX4 Pro </source>
         <translation>PX4 Pro </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="242"/>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="276"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="247"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="281"/>
         <source>Standard Version (stable)</source>
         <translation>Стандартная версия (stable)</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="246"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="251"/>
         <source>Beta Testing (beta)</source>
         <translation>Бета-тестирование (beta)</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="250"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="255"/>
         <source>Developer Build (master)</source>
         <translation>Разработческая версия (master)</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="254"/>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="280"/>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="293"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="259"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="285"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="298"/>
         <source>Custom firmware file...</source>
         <translation>Выбрать файл прошивки...</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="263"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="268"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="336"/>
         <source>PX4 Pro</source>
         <translation>Px4 Pro</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="267"/>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="344"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="272"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="349"/>
         <source>ArduPilot</source>
         <translation>ArduPilot</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="289"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="294"/>
         <source>Standard Version</source>
         <translation>Стандартная версия</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="313"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="318"/>
         <source>Detected PX4 Flow board. The firmware you use on the PX4 Flow must match the AutoPilot firmware type you are using on the vehicle:</source>
         <translation>Обнаружена плата PX4 Flow. Прошивка, которая используется на PX4 Flow должна соответствовать типу прошивки полетного контроллера, использующегося на аппарате:</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="314"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="319"/>
         <source>Detected Pixhawk board. You can select from the following flight stacks:</source>
         <translation>Обнаружно устройство PixHawk. Вы можете выбрать следующее полетное ПО:</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="315"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="320"/>
         <source>Press Ok to upgrade your vehicle.</source>
         <translation>Нажмите OK, чтобы обновить ваше устройство.</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="318"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="323"/>
         <source>Flight Stack</source>
         <translation>Полетное ПО</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="386"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="391"/>
         <source>Downloading list of available firmwares...</source>
         <translation>Загрузка списка доступных прошивок...</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="394"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="399"/>
         <source>No Firmware Available</source>
         <translation>Нет доступных прошивок</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="422"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="427"/>
         <source>Advanced settings</source>
         <translation>Расширенные настройки</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="444"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="449"/>
         <source>Select the standard version or one from the file system (previously downloaded):</source>
         <translation>Выберите стандартную версию прошивки или предварительно загруженный файл прошивки:</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="445"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="450"/>
         <source>Select which version of the firmware you would like to install:</source>
         <translation>Выберите версию прошивки, которую хотите установить:</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="446"/>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="451"/>
         <source>Select which version of the above flight stack you would like to install:</source>
         <translation>Выберите полетный стек, который хотите установить:</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="461"/>
-        <source>WARNING: BETA FIRMWARE. </source>
-        <translation>ОСТОРОЖНО: БЕТА-ВЕРСИЯ ПРОШИВКИ. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="462"/>
-        <source>This firmware version is ONLY intended for beta testers. </source>
-        <translation>Эта прошивка предназначена ТОЛЬКО для бета-тестеров. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="463"/>
-        <source>Although it has received FLIGHT TESTING, it represents actively changed code. </source>
-        <translation type="unfinished">Although it has received FLIGHT TESTING, it represents actively changed code. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="464"/>
-        <source>Do NOT use for normal operation.</source>
-        <translation type="unfinished">Do NOT use for normal operation.</translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="467"/>
-        <source>WARNING: CONTINUOUS BUILD FIRMWARE. </source>
-        <translation type="unfinished">WARNING: CONTINUOUS BUILD FIRMWARE. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="468"/>
-        <source>This firmware has NOT BEEN FLIGHT TESTED. </source>
-        <translation>Эта прошивка НЕ ПРОХОДИЛА ТЕСТИРОВАНИЕ В ПОЛЕТЕ. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="469"/>
-        <source>It is only intended for DEVELOPERS. </source>
-        <translation>Предназначено только для РАЗРАБОТЧИКОВ. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="470"/>
-        <source>Run bench tests without props first. </source>
-        <translation>Сначала запускайте стендовые тесты без пропеллеров. </translation>
-    </message>
-    <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="471"/>
-        <source>Do NOT fly this without additional safety precautions. </source>
-        <translation>Не летайте без дополнительных мер безопасности. </translation>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="466"/>
+        <source>WARNING: BETA FIRMWARE. This firmware version is ONLY intended for beta testers. Although it has received FLIGHT TESTING, it represents actively changed code. Do NOT use for normal operation.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="472"/>
-        <source>Follow the forums actively when using it.</source>
-        <translation type="unfinished">Follow the forums actively when using it.</translation>
+        <source>WARNING: CONTINUOUS BUILD FIRMWARE. This firmware has NOT BEEN FLIGHT TESTED. It is only intended for DEVELOPERS. Run bench tests without props first. Do NOT fly this without additional safety precautions. Follow the forums actively when using it.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="512"/>
+        <source>WARNING: BETA FIRMWARE. </source>
+        <translation type="vanished">ОСТОРОЖНО: БЕТА-ВЕРСИЯ ПРОШИВКИ. </translation>
+    </message>
+    <message>
+        <source>This firmware version is ONLY intended for beta testers. </source>
+        <translation type="vanished">Эта прошивка предназначена ТОЛЬКО для бета-тестеров. </translation>
+    </message>
+    <message>
+        <source>Although it has received FLIGHT TESTING, it represents actively changed code. </source>
+        <translation type="obsolete">Although it has received FLIGHT TESTING, it represents actively changed code. </translation>
+    </message>
+    <message>
+        <source>Do NOT use for normal operation.</source>
+        <translation type="obsolete">Do NOT use for normal operation.</translation>
+    </message>
+    <message>
+        <source>WARNING: CONTINUOUS BUILD FIRMWARE. </source>
+        <translation type="obsolete">WARNING: CONTINUOUS BUILD FIRMWARE. </translation>
+    </message>
+    <message>
+        <source>This firmware has NOT BEEN FLIGHT TESTED. </source>
+        <translation type="vanished">Эта прошивка НЕ ПРОХОДИЛА ТЕСТИРОВАНИЕ В ПОЛЕТЕ. </translation>
+    </message>
+    <message>
+        <source>It is only intended for DEVELOPERS. </source>
+        <translation type="vanished">Предназначено только для РАЗРАБОТЧИКОВ. </translation>
+    </message>
+    <message>
+        <source>Run bench tests without props first. </source>
+        <translation type="vanished">Сначала запускайте стендовые тесты без пропеллеров. </translation>
+    </message>
+    <message>
+        <source>Do NOT fly this without additional safety precautions. </source>
+        <translation type="vanished">Не летайте без дополнительных мер безопасности. </translation>
+    </message>
+    <message>
+        <source>Follow the forums actively when using it.</source>
+        <translation type="obsolete">Follow the forums actively when using it.</translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="517"/>
         <source>Flash ChibiOS Bootloader</source>
         <translation>Прошить загрузчик ChibiOS</translation>
     </message>

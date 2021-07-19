@@ -46,11 +46,16 @@ SetupPage {
             readonly property string highlightSuffix:   "</font>"
             readonly property string welcomeText:       qsTr("%1 can upgrade the firmware on Pixhawk devices, SiK Radios and PX4 Flow Smart Cameras.").arg(QGroundControl.appName)
             readonly property string welcomeTextSingle: qsTr("Update the autopilot firmware to the latest version")
-            readonly property string plugInText:        "<big>" + highlightPrefix + "Plug in your device" + highlightSuffix + " via USB to " + highlightPrefix + "start" + highlightSuffix + " firmware upgrade.</big>"
-            readonly property string flashFailText:     "If upgrade failed, make sure to connect " + highlightPrefix + "directly" + highlightSuffix + " to a powered USB port on your computer, not through a USB hub. " +
-                                                        "Also make sure you are only powered via USB " + highlightPrefix + "not battery" + highlightSuffix + "."
-            readonly property string qgcUnplugText1:    qsTr("All %1 connections to vehicles must be ").arg(QGroundControl.appName) + highlightPrefix + " disconnected " + highlightSuffix + "prior to firmware upgrade."
-            readonly property string qgcUnplugText2:    highlightPrefix + "<big>Please unplug your Pixhawk and/or Radio from USB.</big>" + highlightSuffix
+            readonly property string plugInText:        "<big>" +
+                                                        qsTr("%1Plug in your device%2 via USB to %1start%2 firmware upgrade.").arg(highlightPrefix).arg(highlightSuffix)+
+                                                        "</big>"
+            readonly property string flashFailText:     qsTr("If upgrade failed, make sure to connect %1directly%2 to a powered USB port on your computer, not through a USB hub. " +
+                                                            "Also make sure you are only powered via USB, %1not battery%2.").arg(highlightPrefix).arg(highlightSuffix)
+            readonly property string qgcUnplugText1:    qsTr("All %1 connections to vehicles must be %2disconnected%3 prior to firmware upgrade.").
+                                                            arg(QGroundControl.appName).arg(highlightPrefix).arg(highlightSuffix)
+            readonly property string qgcUnplugText2:    "<big>" +
+                                                        highlightPrefix + qsTr("Please unplug your Pixhawk and/or Radio from USB.") + highlightSuffix +
+                                                        "</big>"
 
             readonly property int _defaultFimwareTypePX4:   12
             readonly property int _defaultFimwareTypeAPM:   3
@@ -124,7 +129,7 @@ SetupPage {
 
                         var availableDevices = controller.availableBoardsName()
                         if (availableDevices.length > 1) {
-                            statusTextArea.append(highlightPrefix + qsTr("Multiple devices detected! Remove all detected devices to perform the firmware upgrade."))
+                            statusTextArea.append(highlightPrefix + qsTr("Multiple devices detected! Remove all detected devices to perform the firmware upgrade.") + highlightSuffix)
                             statusTextArea.append(qsTr("Detected [%1]: ").arg(availableDevices.length) + availableDevices.join(", "))
                         }
                         if (QGroundControl.multiVehicleManager.activeVehicle) {
@@ -328,7 +333,7 @@ SetupPage {
 
                                 QGCRadioButton {
                                     id:             px4FlightStackRadio
-                                    text:           qsTr("PX4 Pro ")
+                                    text:           qsTr("PX4 Pro")
                                     font.bold:      _defaultFirmwareIsPX4
                                     checked:        _defaultFirmwareIsPX4
                                     visible:        !_singleFirmwareMode && !px4Flow && QGroundControl.apmFirmwareSupported
@@ -458,18 +463,18 @@ SetupPage {
                                     controller.selectedFirmwareBuildType = model.get(index).firmwareType
                                     if (model.get(index).firmwareType === FirmwareUpgradeController.BetaFirmware) {
                                         firmwareWarningMessageVisible = true
-                                        firmwareVersionWarningLabel.text = qsTr("WARNING: BETA FIRMWARE. ") +
-                                                qsTr("This firmware version is ONLY intended for beta testers. ") +
-                                                qsTr("Although it has received FLIGHT TESTING, it represents actively changed code. ") +
-                                                qsTr("Do NOT use for normal operation.")
+                                        firmwareVersionWarningLabel.text = qsTr("WARNING: BETA FIRMWARE. " +
+                                                "This firmware version is ONLY intended for beta testers. " +
+                                                "Although it has received FLIGHT TESTING, it represents actively changed code. " +
+                                                "Do NOT use for normal operation.")
                                     } else if (model.get(index).firmwareType === FirmwareUpgradeController.DeveloperFirmware) {
                                         firmwareWarningMessageVisible = true
-                                        firmwareVersionWarningLabel.text = qsTr("WARNING: CONTINUOUS BUILD FIRMWARE. ") +
-                                                qsTr("This firmware has NOT BEEN FLIGHT TESTED. ") +
-                                                qsTr("It is only intended for DEVELOPERS. ") +
-                                                qsTr("Run bench tests without props first. ") +
-                                                qsTr("Do NOT fly this without additional safety precautions. ") +
-                                                qsTr("Follow the forums actively when using it.")
+                                        firmwareVersionWarningLabel.text = qsTr("WARNING: CONTINUOUS BUILD FIRMWARE. " +
+                                                "This firmware has NOT BEEN FLIGHT TESTED. " +
+                                                "It is only intended for DEVELOPERS. " +
+                                                "Run bench tests without props first. " +
+                                                "Do NOT fly this without additional safety precautions. " +
+                                                "Follow the forums actively when using it.")
                                     } else {
                                         firmwareWarningMessageVisible = false
                                     }
