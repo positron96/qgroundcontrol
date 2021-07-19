@@ -1500,12 +1500,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="635"/>
         <source>Final land stage altitude:</source>
-        <translation type="unfinished">Final land stage altitude:</translation>
+        <translation>Высота финального этапа посадки:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="650"/>
         <source>Final land stage descent speed:</source>
-        <translation type="unfinished">Final land stage descent speed:</translation>
+        <translation>Скорость снижения на последнем этапе посадки:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="730"/>
@@ -1525,7 +1525,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.cc" line="33"/>
         <source>Safety Setup is used to setup failsafe actions, leak detection, and arming checks.</source>
-        <translation>Настройки безопасности используются для настройки отказоустойчивых действий у дрона, обнаружения утечек, а также проверки постановки на охрану дрона.</translation>
+        <translation>Настройка действий при отказах, обнаружении протечек, а также предполетные проверки.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.cc" line="44"/>
@@ -1735,7 +1735,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="69"/>
         <source>Failsafe Actions</source>
-        <translation>Действия при различных событиях</translation>
+        <translation>Действия при отказах</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="95"/>
@@ -1770,7 +1770,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="246"/>
         <source>Pilot Input:</source>
-        <translation>Отсутствие событий от оператора:</translation>
+        <translation>Отсутствие команд от оператора:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="280"/>
@@ -2079,12 +2079,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="46"/>
         <source>GCS failsafe:</source>
-        <translation>Потеря связи со станцией управления:</translation>
+        <translation>Потеря связи с наземной станцией:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="50"/>
         <source>Leak failsafe:</source>
-        <translation>Потеря связи со станцией управления:</translation>
+        <translation>Протечка:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="55"/>
@@ -2094,22 +2094,22 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="60"/>
         <source>EKF failsafe:</source>
-        <translation>Проверка EKF:</translation>
+        <translation>Отказ EKF:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="65"/>
         <source>Pilot Input failsafe:</source>
-        <translation>Ошибка ввода пилота:</translation>
+        <translation>Нет команд от оператора::</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="69"/>
         <source>Int. Temperature failsafe:</source>
-        <translation>Прдхр. внутр. темп.:</translation>
+        <translation>Ошибка внутр. температуры:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="73"/>
         <source>Int. Pressure failsafe:</source>
-        <translation>Прдхр. внутр. давлния:</translation>
+        <translation>Ошибка внутр. давления:</translation>
     </message>
 </context>
 <context>
