@@ -138,7 +138,7 @@ SetupPage {
                             }
 
                             QGCLabel {
-                                text: "Logic when Dry:"
+                                text:               qsTr("Logic when Dry:")
                                 width:              failsafeSettings._labelWidth
                                 visible:            leakEnableCombo.currentIndex != 0
                                 anchors.baseline:   leakEnableCombo.baseline

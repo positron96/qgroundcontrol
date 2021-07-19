@@ -1753,6 +1753,11 @@
         <translation>Вход детектора:</translation>
     </message>
     <message>
+        <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="141"/>
+        <source>Logic when Dry:</source>
+        <translation>Значение входа в сухом состоянии:</translation>
+    </message>
+    <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="164"/>
         <source>Battery:</source>
         <translation>Батарея:</translation>
