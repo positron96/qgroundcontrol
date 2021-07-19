@@ -1106,7 +1106,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="324"/>
         <source>Power Module HV</source>
-        <translation>Модуль питания HV (высоковольтный)</translation>
+        <translation>Модуль питания HV</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="333"/>
@@ -1141,7 +1141,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="396"/>
         <source>Power sensor:</source>
-        <translation>Датчик питания:</translation>
+        <translation>Тип датчика:</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="421"/>
@@ -2640,9 +2640,7 @@ Click Ok to start calibration.</translation>
         <source>Frame setup allows you to choose your vehicle&apos;s motor configuration. Install clockwise
 propellers on the green thrusters and counter-clockwise propellers on the blue thrusters
 (or vice-versa). The flight controller will need to be rebooted to apply changes.</source>
-        <translation type="unfinished">Frame setup allows you to choose your vehicle&apos;s motor configuration. Install clockwise
-propellers on the green thrusters and counter-clockwise propellers on the blue thrusters
-(or vice-versa). The flight controller will need to be rebooted to apply changes.</translation>
+        <translation>Настройка рамы позволяет выбрать расположение моторов. Зеленые пропеллеры должны быть типа CW (по часовой стрелке), синие - CCW (против часовой стрелки), или наоборот. Чтобы новые настройки вступили в силу, потребуется перезагрузка полетного контроллера.</translation>
     </message>
 </context>
 <context>
@@ -7715,7 +7713,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueValue.qml" line="48"/>
         <source>--.--</source>
-        <translation type="unfinished">--.--</translation>
+        <translation>--.--</translation>
     </message>
 </context>
 <context>
