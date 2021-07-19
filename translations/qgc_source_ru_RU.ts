@@ -7927,7 +7927,8 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="180"/>
         <source>Deadband can be set during the first step of calibration by gently wiggling each axis. Deadband can also be adjusted by clicking and dragging vertically on the corresponding axis monitor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Мертвые зоны устанавливаются в процессе калибровки путем легкого покачивания осей джойстика.
+Также они могут быть установлены путем вертикальной протяжки мыши над соответствующей осью в мониторе осей.</translation>
     </message>
     <message>
         <source>Deadband can be set during the first </source>
