@@ -2318,12 +2318,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="454"/>
         <source>Magnetic Declination</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Magnetic Declination</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="466"/>
         <source>Manual Magnetic Declination</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual Magnetic Declination</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="513"/>
@@ -2333,7 +2333,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="514"/>
         <source>CompassMot only works well if you have a battery current monitor because the magnetic interference is linear with current drawn. </source>
-        <translation>CompassMot работает только если есть датчик тока, т. к. интерференция магнитного поля линейно зависит от потребляемого тока. </translation>
+        <translation type="unfinished">CompassMot работает только если есть датчик тока, т. к. влияние магнитного поля линейно зависит от потребляемого тока. </translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="515"/>
@@ -2343,12 +2343,12 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="522"/>
         <source>Disconnect your props, flip them over and rotate them one position around the frame. </source>
-        <translation>Снимите пропеллеры, переверните их и проверните их на одну позицию вокруг рамы.</translation>
+        <translation>Снимите пропеллеры, переверните их и проверните их на одну позицию вокруг рамы. </translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="523"/>
         <source>In this configuration they should push the copter down into the ground when the throttle is raised.</source>
-        <translation>В этой конфигурации пропеллеры должны толкать коптер вниз при увелечение газа.</translation>
+        <translation>В этой конфигурации пропеллеры должны толкать аппарат вниз при увелечении газа.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="530"/>
@@ -2363,7 +2363,7 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="544"/>
         <source>Click Ok to start CompassMot calibration.</source>
-        <translation>Нажмите &quot;Ок&quot;, чтобы начать калибровку Компаса.</translation>
+        <translation type="unfinished">Нажмите &quot;Ок&quot;, чтобы начать калибровку CompassMot.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="566"/>
@@ -2373,17 +2373,17 @@
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="588"/>
         <source>depth</source>
-        <translation>глубина</translation>
+        <translation>глубину</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="588"/>
         <source>altitude</source>
-        <translation>высота</translation>
+        <translation>высоту</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="589"/>
         <source>Pressure calibration will set the %1 to zero at the current pressure reading. %2</source>
-        <translation>Калибрация давление выставит %1 на ноль на нинешним измерением давления. %2</translation>
+        <translation type="unfinished">Калибровка давления установит %1 в ноль при текущем значении давления. %2</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="590"/>
@@ -2395,9 +2395,9 @@
         <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.
 
 Click Ok to start calibration.</source>
-        <translation type="unfinished">For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.
+        <translation>Для калибровки гироскопа необходимо установить аппарат на ровную поверхность.
 
-Click Ok to start calibration.</translation>
+Нажмите Ok для начала калибровки.</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="632"/>
@@ -2447,12 +2447,12 @@ Click Ok to start calibration.</translation>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="684"/>
         <source>CompassMot</source>
-        <translation>Компас</translation>
+        <translation type="unfinished">CompassMot</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="687"/>
         <source>CompassMot - Compass Motor Interference Calibration</source>
-        <translation>CompassMot - калибровка интерференции моторов на компас</translation>
+        <translation type="unfinished">CompassMot - калибровка влияния моторов на компас</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="707"/>
@@ -2472,7 +2472,7 @@ Click Ok to start calibration.</translation>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="825"/>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="834"/>
         <source>Rotate</source>
-        <translation>Повернуть</translation>
+        <translation>Поверните</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="789"/>
@@ -5409,7 +5409,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="405"/>
         <source>Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</source>
-        <translation>Размер распакованной секции отличается от необходимого: ожидается %1, реальный %2</translation>
+        <translation>Размер распакованной секции %1 отличается от необходимого: ожидается %1, реальный %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="409"/>
@@ -5802,7 +5802,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="54"/>
         <source>All %1 connections to vehicles must be %2disconnected%3 prior to firmware upgrade.</source>
-        <translation>Все устройства должны быть %2отключены%3 до обновления прошивки.</translation>
+        <translation>Все устройства должны быть %2отключены%3 от %1 до обновления прошивки.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="50"/>
@@ -8022,7 +8022,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/JoystickConfigController.cc" line="197"/>
         <source>Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</source>
-        <translation>На джойстике обнаружно осей: %1. Для управления аппаратом PX4 необходимо минимум %2 осей.</translation>
+        <translation>На джойстике обнаружно осей: %1. Минимально необходимое число осей для управления аппаратом PX4: %2.</translation>
     </message>
 </context>
 <context>
