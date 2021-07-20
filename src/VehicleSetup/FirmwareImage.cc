@@ -117,7 +117,7 @@ bool FirmwareImage::_ihxLoad(const QString& ihxFilename)
     
     QFile ihxFile(ihxFilename);
     if (!ihxFile.open(QIODevice::ReadOnly | QIODevice::Text)) {
-        emit statusMessage(QString("Unable to open firmware file %1, error: %2").arg(ihxFilename, ihxFile.errorString()));
+        emit statusMessage(tr("Unable to open firmware file %1, error: %2").arg(ihxFilename, ihxFile.errorString()));
         return false;
     }
     
@@ -125,7 +125,7 @@ bool FirmwareImage::_ihxLoad(const QString& ihxFilename)
     
     while (true) {
         if (stream.read(1) != ":") {
-            emit statusMessage("Incorrectly formatted .ihx file, line does not begin with :");
+            emit statusMessage(tr("Incorrectly formatted .ihx file, line does not begin with :"));
             return false;
         }
         
@@ -360,7 +360,7 @@ bool FirmwareImage::_decompressJsonValue(const QJsonObject&	jsonObject,			///< J
 {
     // Validate decompressed size key
     if (!jsonObject.contains(sizeKey)) {
-        emit statusMessage(QString("Firmware file missing %1 key").arg(sizeKey));
+        emit statusMessage(tr("Firmware file missing %1 key").arg(sizeKey));
         return false;
     }
     int decompressedSize = jsonObject.value(QString(sizeKey)).toInt();
@@ -402,7 +402,7 @@ bool FirmwareImage::_decompressJsonValue(const QJsonObject&	jsonObject,			///< J
         return false;
     }
     if (decompressedBytes.count() != decompressedSize) {
-        emit statusMessage(tr("Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)").arg(decompressedSize).arg(decompressedBytes.count()));
+        emit statusMessage(tr("Size for decompressed %1 does not match stored size: Expected(%2) Actual(%3)").arg(bytesKey).arg(decompressedSize).arg(decompressedBytes.count()));
         return false;
     }
     

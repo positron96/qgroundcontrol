@@ -5332,9 +5332,15 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <translation>Неподдерживаемый тип записи в файле: %1</translation>
     </message>
     <message>
+        <location filename="../src/VehicleSetup/FirmwareImage.cc" line="120"/>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="218"/>
         <source>Unable to open firmware file %1, error: %2</source>
         <translation>Не удалось открыть файл прошивки %1, ошибка %2</translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/FirmwareImage.cc" line="128"/>
+        <source>Incorrectly formatted .ihx file, line does not begin with :</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="227"/>
@@ -5387,6 +5393,11 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <translation>Ошибка записи распакованного файла: %1</translation>
     </message>
     <message>
+        <location filename="../src/VehicleSetup/FirmwareImage.cc" line="363"/>
+        <source>Firmware file missing %1 key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="368"/>
         <source>Firmware file has invalid decompressed size for %1</source>
         <translation>Некоррекный размер распакованной секции &quot;%1&quot;</translation>
@@ -5408,8 +5419,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="405"/>
+        <source>Size for decompressed %1 does not match stored size: Expected(%2) Actual(%3)</source>
+        <translation type="unfinished">Размер распакованной секции %1 отличается от необходимого: ожидается %1, реальный %2 {1 ?} {2)?} {3)?}</translation>
+    </message>
+    <message>
         <source>Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</source>
-        <translation>Размер распакованной секции %1 отличается от необходимого: ожидается %1, реальный %2</translation>
+        <translation type="vanished">Размер распакованной секции %1 отличается от необходимого: ожидается %1, реальный %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="409"/>
