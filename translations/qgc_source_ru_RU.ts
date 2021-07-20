@@ -15375,9 +15375,8 @@ ROTATION_NONE indicates component points in direction of flight.</source>
         <translation type="unfinished">%1 setup must be completed prior to %2 setup.</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="132"/>
         <source>%1 does not currently support setup of your vehicle type. </source>
-        <translation type="unfinished">%1 does not currently support setup of your vehicle type. </translation>
+        <translation type="obsolete">%1 does not currently support setup of your vehicle type. </translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="150"/>
@@ -15385,37 +15384,50 @@ ROTATION_NONE indicates component points in direction of flight.</source>
         <translation type="unfinished">Vehicle settings and info will display after connecting your vehicle.</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="171"/>
         <source>You are currently connected to a vehicle but it did not return the full parameter list. </source>
-        <translation type="unfinished">You are currently connected to a vehicle but it did not return the full parameter list. </translation>
+        <translation type="obsolete">You are currently connected to a vehicle but it did not return the full parameter list. </translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="172"/>
         <source>As a result, the full set of vehicle setup options are not available.</source>
-        <translation type="unfinished">As a result, the full set of vehicle setup options are not available.</translation>
+        <translation type="obsolete">As a result, the full set of vehicle setup options are not available.</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="231"/>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="132"/>
+        <source>%1 does not currently support setup of your vehicle type. If your vehicle is already configured you can still Fly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="152"/>
+        <source> Click Firmware on the left to upgrade your vehicle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="173"/>
+        <source>You are currently connected to a vehicle but it did not return the full parameter list. As a result, the full set of vehicle setup options are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="234"/>
         <source>Summary</source>
         <translation>Сводка</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="243"/>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="246"/>
         <source>Firmware</source>
         <translation>Прошивка</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="254"/>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="257"/>
         <source>PX4Flow</source>
         <translation>PX4Flow</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="265"/>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="268"/>
         <source>Joystick</source>
         <translation>Геймпад</translation>
     </message>
     <message>
-        <location filename="../src/VehicleSetup/SetupView.qml" line="292"/>
+        <location filename="../src/VehicleSetup/SetupView.qml" line="295"/>
         <source>Parameters</source>
         <translation>Параматры</translation>
     </message>

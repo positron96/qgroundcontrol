@@ -129,8 +129,8 @@ Rectangle {
                 horizontalAlignment:    Text.AlignHCenter
                 wrapMode:               Text.WordWrap
                 font.pointSize:         ScreenTools.mediumFontPointSize
-                text:                   qsTr("%1 does not currently support setup of your vehicle type. ").arg(QGroundControl.appName) +
-                                        "If your vehicle is already configured you can still Fly."
+                text:                   qsTr("%1 does not currently support setup of your vehicle type. "+
+                                             "If your vehicle is already configured you can still Fly.").arg(QGroundControl.appName)
                 onLinkActivated: Qt.openUrlExternally(link)
             }
         }
@@ -148,7 +148,9 @@ Rectangle {
                 wrapMode:               Text.WordWrap
                 font.pointSize:         ScreenTools.largeFontPointSize
                 text:                   qsTr("Vehicle settings and info will display after connecting your vehicle.") +
-                                        (ScreenTools.isMobile || !_corePlugin.options.showFirmwareUpgrade ? "" : " Click Firmware on the left to upgrade your vehicle.")
+                                        (ScreenTools.isMobile || !_corePlugin.options.showFirmwareUpgrade
+                                            ? "" : qsTr(" Click Firmware on the left to upgrade your vehicle.")
+                                         )
 
                 onLinkActivated: Qt.openUrlExternally(link)
             }
@@ -168,8 +170,9 @@ Rectangle {
                 horizontalAlignment:    Text.AlignHCenter
                 wrapMode:               Text.WordWrap
                 font.pointSize:         ScreenTools.mediumFontPointSize
-                text:                   qsTr("You are currently connected to a vehicle but it did not return the full parameter list. ") +
-                                        qsTr("As a result, the full set of vehicle setup options are not available.")
+                text:                   qsTr("You are currently connected to a vehicle but it did not return the full parameter list. "+
+                                             "As a result, the full set of vehicle setup options are not available.")
+
 
                 onLinkActivated: Qt.openUrlExternally(link)
             }
