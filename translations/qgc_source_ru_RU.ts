@@ -5069,7 +5069,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/FactSystem/Fact.cc" line="247"/>
         <source>Unknown: %1</source>
-        <translation type="unfinished">Unknown: %1</translation>
+        <translation>Неизвестно: %1</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/Fact.cc" line="332"/>
@@ -5084,12 +5084,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/FactSystem/Fact.cc" line="745"/>
         <source>Change of parameter %1 requires a Vehicle reboot to take effect.</source>
-        <translation type="unfinished">Change of parameter %1 requires a Vehicle reboot to take effect.</translation>
+        <translation>Для вступления в силу нового значения параметра %1 требуется перезагрузка аппарата.</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/Fact.cc" line="747"/>
         <source>Change of &apos;%1&apos; value requires restart of %2 to take effect.</source>
-        <translation type="unfinished">Change of &apos;%1&apos; value requires restart of %2 to take effect.</translation>
+        <translation>Для вступления в силу нового значения параметра %1 требуется перезагрузка %2.</translation>
     </message>
 </context>
 <context>
@@ -5324,12 +5324,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="143"/>
         <source>Incorrectly formatted line in .ihx file, line too short</source>
-        <translation type="unfinished">Incorrectly formatted line in .ihx file, line too short</translation>
+        <translation>Некорректная строка в файле ihz (строка слишком короткая)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="148"/>
         <source>Unsupported record type in file: %1</source>
-        <translation type="unfinished">Unsupported record type in file: %1</translation>
+        <translation>Неподдерживаемый тип записи в файле: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="218"/>
@@ -5344,7 +5344,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="238"/>
         <source>Firmware file missing required key: %1</source>
-        <translation type="unfinished">Firmware file missing required key: %1</translation>
+        <translation>В файле прошивки отсутствует необходимый ключ: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="248"/>
@@ -5354,72 +5354,72 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="254"/>
         <source>Downloaded firmware board id does not match hardware board id: %1 != %2</source>
-        <translation type="unfinished">Downloaded firmware board id does not match hardware board id: %1 != %2</translation>
+        <translation>Идентификатор платы в загруженной прошивке не совпадает с идентификатором реальной платы: %1 != %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="276"/>
         <source>Write failed for parameter meta data file, error: %1</source>
-        <translation type="unfinished">Write failed for parameter meta data file, error: %1</translation>
+        <translation>Ошибка записи файла метаданных параметров: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="283"/>
         <source>Unable to open parameter meta data file %1 for writing, error: %2</source>
-        <translation type="unfinished">Unable to open parameter meta data file %1 for writing, error: %2</translation>
+        <translation>Невозможно открыть для записи файл метаданных параметров %1, ошибка: %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="305"/>
         <source>Write failed for airframe meta data file, error: %1</source>
-        <translation type="unfinished">Write failed for airframe meta data file, error: %1</translation>
+        <translation>Ошибка записи файла с описанием рамы: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="312"/>
         <source>Unable to open airframe meta data file %1 for writing, error: %2</source>
-        <translation type="unfinished">Unable to open airframe meta data file %1 for writing, error: %2</translation>
+        <translation>Невозможно открыть для записи файл с описанием рамы %1, ошибка: %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="338"/>
         <source>Unable to open decompressed file %1 for writing, error: %2</source>
-        <translation type="unfinished">Unable to open decompressed file %1 for writing, error: %2</translation>
+        <translation>Невозможно открыть для записи рспакованный файл %1, ошибка: %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="344"/>
         <source>Write failed for decompressed image file, error: %1</source>
-        <translation type="unfinished">Write failed for decompressed image file, error: %1</translation>
+        <translation>Ошибка записи распакованного файла: %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="368"/>
         <source>Firmware file has invalid decompressed size for %1</source>
-        <translation type="unfinished">Firmware file has invalid decompressed size for %1</translation>
+        <translation>Некоррекный размер распакованной секции &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="380"/>
         <source>Could not find compressed bytes for %1 in Firmware file</source>
-        <translation type="unfinished">Could not find compressed bytes for %1 in Firmware file</translation>
+        <translation>В прошивке не найдены запакованные данные для секции &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="385"/>
         <source>Incorrectly formed compressed bytes section for %1 in Firmware file</source>
-        <translation type="unfinished">Incorrectly formed compressed bytes section for %1 in Firmware file</translation>
+        <translation>Некорректные запакованые данные в секции &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="401"/>
         <source>Firmware file has 0 length %1</source>
-        <translation type="unfinished">Firmware file has 0 length %1</translation>
+        <translation>Секция &quot;%1&quot; имеет размер 0</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="405"/>
         <source>Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</source>
-        <translation type="unfinished">Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</translation>
+        <translation>Размер распакованной секции отличается от необходимого: ожидается %1, реальный %2</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="409"/>
         <source>Successfully decompressed %1</source>
-        <translation>Успешно разархивирован %1</translation>
+        <translation>Успешно распакована секция &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="437"/>
         <source>Unabled to open firmware file %1, %2</source>
-        <translation type="unfinished">Unabled to open firmware file %1, %2</translation>
+        <translation>Невозможно открыть файл прошивки %1: %2</translation>
     </message>
 </context>
 <context>
@@ -11685,42 +11685,42 @@ Is this really what you want?</source>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="23"/>
         <source>Load Parameters</source>
-        <translation type="unfinished">Load Parameters</translation>
+        <translation>Загрузка параметров</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="42"/>
         <source>The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</source>
-        <translation type="unfinished">The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</translation>
+        <translation>Следующие параметры имеют разные значения на аппарате и в файле. Нажмите Ok, чтобы обновить параметры на аппарате.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="43"/>
         <source>There are no differences between the file loaded and the current settings on the Vehicle.</source>
-        <translation type="unfinished">There are no differences between the file loaded and the current settings on the Vehicle.</translation>
+        <translation>Параметры, сохраненные в аппарате, и в файле совпадают.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="71"/>
         <source>Comp ID</source>
-        <translation type="unfinished">Comp ID</translation>
+        <translation>ID комп.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="78"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="84"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="90"/>
         <source>Vehicle</source>
-        <translation type="unfinished">Vehicle</translation>
+        <translation>Аппарат</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="93"/>
         <source>N/A</source>
-        <translation type="unfinished">N/A</translation>
+        <translation>Н/Д</translation>
     </message>
 </context>
 <context>
@@ -15362,17 +15362,17 @@ ROTATION_NONE indicates component points in direction of flight.</source>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="35"/>
         <source>This operation cannot be performed while the vehicle is armed.</source>
-        <translation type="unfinished">This operation cannot be performed while the vehicle is armed.</translation>
+        <translation>Действие не может быть выполнено, пока аппарат в состоянии &quot;Armed&quot;.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="38"/>
         <source>missing message panel text</source>
-        <translation type="unfinished">missing message panel text</translation>
+        <translation>отсутствует текст панели</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="80"/>
         <source>%1 setup must be completed prior to %2 setup.</source>
-        <translation type="unfinished">%1 setup must be completed prior to %2 setup.</translation>
+        <translation>Компонент &quot;%1&quot; должен быть настроен до настройки компонента &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>%1 does not currently support setup of your vehicle type. </source>
@@ -15381,7 +15381,7 @@ ROTATION_NONE indicates component points in direction of flight.</source>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="150"/>
         <source>Vehicle settings and info will display after connecting your vehicle.</source>
-        <translation type="unfinished">Vehicle settings and info will display after connecting your vehicle.</translation>
+        <translation>Настройки и статус аппарата будут отображены после подключения к аппарату.</translation>
     </message>
     <message>
         <source>You are currently connected to a vehicle but it did not return the full parameter list. </source>
@@ -15394,17 +15394,17 @@ ROTATION_NONE indicates component points in direction of flight.</source>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="132"/>
         <source>%1 does not currently support setup of your vehicle type. If your vehicle is already configured you can still Fly.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 еще не поддерживает настройку вашего аппарата. Тем не меннее, если аппарат настроен, летать можно.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="152"/>
         <source> Click Firmware on the left to upgrade your vehicle.</source>
-        <translation type="unfinished"></translation>
+        <translation> Выберите &quot;Прошивка&quot; в левой части окна для обновления аппарата.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="173"/>
         <source>You are currently connected to a vehicle but it did not return the full parameter list. As a result, the full set of vehicle setup options are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аппарат подключен, однако не передал полный список доступных параметров. Поэтому полный набор настроек недоступен.</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="234"/>
