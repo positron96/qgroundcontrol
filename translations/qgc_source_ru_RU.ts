@@ -11852,12 +11852,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/QmlControls/ParameterEditorController.cc" line="217"/>
         <source>Unable to create file: %1</source>
-        <translation type="unfinished">Unable to create file: %1</translation>
+        <translation>Невозможно создать файл: %1</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditorController.cc" line="258"/>
         <source>Unable to open file: %1</source>
-        <translation type="unfinished">Unable to open file: %1</translation>
+        <translation>Невозможно открыть файл: %1</translation>
     </message>
 </context>
 <context>
@@ -11865,7 +11865,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="135"/>
         <source>Reset to default</source>
-        <translation type="unfinished">Reset to default</translation>
+        <translation>Вернуть значение по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="209"/>
@@ -11890,12 +11890,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="242"/>
         <source>Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </source>
-        <translation type="unfinished">Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </translation>
+        <translation>Осторожно: изменение значений в полете может привести к потере управляемости и к аварии. </translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="243"/>
         <source>Make sure you know what you are doing and double-check your values before Save!</source>
-        <translation type="unfinished">Make sure you know what you are doing and double-check your values before Save!</translation>
+        <translation>Убедитесь, что знаете, что делаете, и перепроверьте новые значения перед сохранением!</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="250"/>
@@ -11915,7 +11915,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="290"/>
         <source>Set RC to Param</source>
-        <translation type="unfinished">Set RC to Param</translation>
+        <translation>Привязать параметр к RC</translation>
     </message>
 </context>
 <context>
@@ -11923,39 +11923,39 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="678"/>
         <source>Parameter write failed: veh:%1 comp:%2 param:%3</source>
-        <translation type="unfinished">Parameter write failed: veh:%1 comp:%2 param:%3</translation>
+        <translation>Ошибка записи параметра: аппарат:%1, компонент:%2, параметр:%3</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="700"/>
         <source>Parameter read failed: veh:%1 comp:%2 param:%3</source>
-        <translation type="unfinished">Parameter read failed: veh:%1 comp:%2 param:%3</translation>
+        <translation>Ошибка чиения параметра: аппарат:%1, компонент:%2, параметр:%3</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="926"/>
         <source>Parameter cache CRC match failed</source>
-        <translation type="unfinished">Parameter cache CRC match failed</translation>
+        <translation>Несоответствие проверочной суммы кэша</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="977"/>
         <source>Parameters not loaded since they are not currently on the vehicle: %1
 </source>
-        <translation type="unfinished">Parameters not loaded since they are not currently on the vehicle: %1
+        <translation>Параметры не загружены, потому что они отсутствуют на аппарате: %1
 </translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="981"/>
         <source>Parameters not loaded due to type mismatch: %1</source>
-        <translation type="unfinished">Parameters not loaded due to type mismatch: %1</translation>
+        <translation>Параметры не загружены, потому не совпадает их тип: %1</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="1149"/>
         <source>%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</source>
-        <translation type="unfinished">%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</translation>
+        <translation>%1 не смог загрузить полный список параметров с аппарата %2. Полный интерфейс %1 не может быть отображен. Если вы используете модифицированную прошивку, вам следует решить все проблемы запуска аппарата. Если вы используете стандартную прошивку, обновитесь до последней версии.</translation>
     </message>
     <message>
         <location filename="../src/FactSystem/ParameterManager.cc" line="1175"/>
         <source>Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</source>
-        <translation type="unfinished">Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</translation>
+        <translation>Аппарат %1 не ответил на запрос параметров. Полный интерфейс %2 не может быть отображен.</translation>
     </message>
 </context>
 <context>
