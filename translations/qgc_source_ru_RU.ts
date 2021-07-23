@@ -7209,12 +7209,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="26"/>
         <source>GeoTag Images</source>
-        <translation type="unfinished">GeoTag Images</translation>
+        <translation>Геопривязка изображений</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="27"/>
         <source>GeoTag Images is used to tag a set of images from a survey mission with gps coordinates. You must provide the binary log from the flight as well as the directory which contains the images to tag.</source>
-        <translation type="unfinished">GeoTag Images is used to tag a set of images from a survey mission with gps coordinates. You must provide the binary log from the flight as well as the directory which contains the images to tag.</translation>
+        <translation>Геопривязка используется для добавления координат к изображениям, полученным в ходе миссии. Вы должны загрузить журнал полета (в двоичном виде) и папку с изображениями.</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="68"/>
@@ -8975,7 +8975,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/ui/MainRootWindow.qml" line="279"/>
         <location filename="../src/ui/MainRootWindow.qml" line="298"/>
         <source>%1 close</source>
-        <translation type="unfinished">%1 close</translation>
+        <translation>Выход из %1</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="299"/>
@@ -8985,7 +8985,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="263"/>
         <source>You have a mission edit in progress which has not been saved/sent. If you close you will lose changes. Are you sure you want to close?</source>
-        <translation type="unfinished">You have a mission edit in progress which has not been saved/sent. If you close you will lose changes. Are you sure you want to close?</translation>
+        <translation>Редактирование миссии не закончено. Вы действительно хотите выйти?</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="156"/>
@@ -9008,7 +9008,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="280"/>
         <source>You have pending parameter updates to a vehicle. If you close you will lose changes. Are you sure you want to close?</source>
-        <translation type="unfinished">You have pending parameter updates to a vehicle. If you close you will lose changes. Are you sure you want to close?</translation>
+        <translation>Имеются измененные параметры, не сохраненные на аппарат. Если вы выйдите, изменения будут потеряны. Вы действительно хотите выйти?</translation>
     </message>
     <message>
         <location filename="../src/ui/MainRootWindow.qml" line="343"/>
@@ -9118,7 +9118,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/MainToolBar.qml" line="201"/>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <location filename="../src/ui/toolbar/MainToolBar.qml" line="209"/>
@@ -9128,7 +9128,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/toolbar/MainToolBar.qml" line="82"/>
         <source>Disconnect</source>
-        <translation type="unfinished">Disconnect</translation>
+        <translation>Отключить</translation>
     </message>
 </context>
 <context>
@@ -17546,52 +17546,52 @@ Confirm change?</translation>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="26"/>
         <source>Vibration</source>
-        <translation type="unfinished">Vibration</translation>
+        <translation>Вибрация</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="27"/>
         <source>Analyze vibration associated with your vehicle.</source>
-        <translation type="unfinished">Analyze vibration associated with your vehicle.</translation>
+        <translation>Анализ вибраций аппарата.</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="74"/>
         <source>X</source>
-        <translation type="unfinished">X</translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="96"/>
         <source>Y</source>
-        <translation type="unfinished">Y</translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="118"/>
         <source>Z</source>
-        <translation type="unfinished">Z</translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="139"/>
         <source>Clip count</source>
-        <translation type="unfinished">Clip count</translation>
+        <translation>Количество отсечек</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="143"/>
         <source>Accel 1: </source>
-        <translation type="unfinished">Accel 1: </translation>
+        <translation>Ускорение 1: </translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="147"/>
         <source>Accel 2: </source>
-        <translation type="unfinished">Accel 2: </translation>
+        <translation>Ускорение 2: </translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="151"/>
         <source>Accel 3: </source>
-        <translation type="unfinished">Accel 3: </translation>
+        <translation>Ускорение 3: </translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/VibrationPage.qml" line="165"/>
         <source>Not Available</source>
-        <translation type="unfinished">Not Available</translation>
+        <translation>Недоступно</translation>
     </message>
 </context>
 <context>
