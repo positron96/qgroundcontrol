@@ -2540,22 +2540,22 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="376"/>
         <source>Requesting gyro calibration...</source>
-        <translation type="unfinished">Requesting gyro calibration...</translation>
+        <translation>Запрос калибровки гироскопа...</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="506"/>
         <source>Successfully completed</source>
-        <translation type="unfinished">Successfully completed</translation>
+        <translation>Успех</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="510"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="302"/>
         <source>Hold still in the current orientation and press Next when ready</source>
-        <translation>Не двигайтесь с в вашей нынешней ориентации и нажмите Следующее</translation>
+        <translation>Не двигайтесь с в вашей нынешней ориентации и нажмите &quot;Далее&quot;</translation>
     </message>
     <message>
         <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="558"/>
