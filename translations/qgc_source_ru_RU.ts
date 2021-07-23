@@ -5324,7 +5324,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="143"/>
         <source>Incorrectly formatted line in .ihx file, line too short</source>
-        <translation>Некорректная строка в файле ihz (строка слишком короткая)</translation>
+        <translation>Некорректная строка в файле .ihx (строка слишком короткая)</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="148"/>
@@ -5340,7 +5340,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="128"/>
         <source>Incorrectly formatted .ihx file, line does not begin with :</source>
-        <translation type="unfinished"></translation>
+        <translation>Некорректная строка в файле .ihx, строка не начинается с:</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="227"/>
@@ -5395,7 +5395,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="363"/>
         <source>Firmware file missing %1 key</source>
-        <translation type="unfinished"></translation>
+        <translation>В прошивке отсутствует ключ %1</translation>
     </message>
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="368"/>
@@ -5420,7 +5420,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/VehicleSetup/FirmwareImage.cc" line="405"/>
         <source>Size for decompressed %1 does not match stored size: Expected(%2) Actual(%3)</source>
-        <translation type="unfinished">Размер распакованной секции %1 отличается от необходимого: ожидается %1, реальный %2 {1 ?} {2)?} {3)?}</translation>
+        <translation>Размер распакованной секции %1 отличается от необходимого: ожидается %2, реальный %3</translation>
     </message>
     <message>
         <source>Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</source>
@@ -13234,52 +13234,52 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
         <location filename="../src/QGCApplication.cc" line="204"/>
         <source>You are running %1 as root. You should not do this since it will cause other issues with %1.%1 will now exit.&lt;br/&gt;&lt;br/&gt;If you are having serial port issues on Ubuntu, execute the following commands to fix most issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</source>
-        <translation type="unfinished">You are running %1 as root. You should not do this since it will cause other issues with %1.%1 will now exit.&lt;br/&gt;&lt;br/&gt;If you are having serial port issues on Ubuntu, execute the following commands to fix most issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
+        <translation>%1 запущено от пользователя root. Это вызывает проблемы в работе %1. %1 будет закрыто.&lt;br/&gt;&lt;br/&gt;Если вы испытваете проблемы с последовательными портами в Ubuntu, используйте следующую команду:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="220"/>
         <source>The current user does not have the correct permissions to access serial devices. You should also remove modemmanager since it also interferes.&lt;br/&gt;&lt;br/&gt;If you are using Ubuntu, execute the following commands to fix these issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</source>
-        <translation type="unfinished">The current user does not have the correct permissions to access serial devices. You should also remove modemmanager since it also interferes.&lt;br/&gt;&lt;br/&gt;If you are using Ubuntu, execute the following commands to fix these issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
+        <translation>Текущий пользователь не имеет прав доступа к последовательным портам.. Также следует удалить modemmanager.&lt;br/&gt;&lt;br/&gt;Если вы используете Ubuntu, запустите следующие команды:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="647"/>
         <source>The format for %1 saved settings has been modified. Your saved settings have been reset to defaults.</source>
-        <translation type="unfinished">The format for %1 saved settings has been modified. Your saved settings have been reset to defaults.</translation>
+        <translation>Формат настроек %1 изменился. Будут использованы настройки по умолчанию.</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="655"/>
         <source>The Offline Map Cache database has been upgraded. Your old map cache sets have been reset.</source>
-        <translation type="unfinished">The Offline Map Cache database has been upgraded. Your old map cache sets have been reset.</translation>
+        <translation>Офлайн кэш карт был обновлен. Старый кэш сброшен.</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="723"/>
         <source>Unable to save telemetry log. Error copying telemetry to &apos;%1&apos;: &apos;%2&apos;.</source>
-        <translation type="unfinished">Unable to save telemetry log. Error copying telemetry to &apos;%1&apos;: &apos;%2&apos;.</translation>
+        <translation>Невозможно сохранить журнал телеметрии. Ошибка копирования телеметрии в &apos;%1&apos;: &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="781"/>
         <source>Parameters are missing from firmware. You may be running a version of firmware which is not fully supported or your firmware has a bug in it. Missing params: %1</source>
-        <translation type="unfinished">Parameters are missing from firmware. You may be running a version of firmware which is not fully supported or your firmware has a bug in it. Missing params: %1</translation>
+        <translation>Параметры отсутствуют в прошивке аппарата. Возможно, версия прошивки не поддерживается или содержит ошибки. Отсутствующие параметры: %1</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="906"/>
         <source>There is a newer version of %1 available. You can download it from %2.</source>
-        <translation type="unfinished">There is a newer version of %1 available. You can download it from %2.</translation>
+        <translation>Доступна новая версия %1. Ее можно скачать по адресу %2.</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="906"/>
         <source>New Version Available</source>
-        <translation type="unfinished">New Version Available</translation>
+        <translation>Доступна новая версия</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="740"/>
         <source>Unable to save telemetry log. Application save directory is not set.</source>
-        <translation type="unfinished">Unable to save telemetry log. Application save directory is not set.</translation>
+        <translation>Невозможно сохранить журнал телеметрии. Не задана папка данных приложения.</translation>
     </message>
     <message>
         <location filename="../src/QGCApplication.cc" line="747"/>
         <source>Unable to save telemetry log. Telemetry save directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished">Unable to save telemetry log. Telemetry save directory &quot;%1&quot; does not exist.</translation>
+        <translation>Невозможно сохранить журнал телеметрии. Папка сохранения телеметрии &quot;%1&quot; не существует.</translation>
     </message>
 </context>
 <context>
