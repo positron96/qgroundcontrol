@@ -7245,48 +7245,48 @@ Please place your vehicle in water, click the button, and wait. Note that the th
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="67"/>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="75"/>
         <source>Select log file</source>
-        <translation type="unfinished">Select log file</translation>
+        <translation>Выбрать файл журнала</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="77"/>
         <source>ULog file (*.ulg)</source>
-        <translation type="unfinished">ULog file (*.ulg)</translation>
+        <translation>Файл ULog (*.ulg)</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="77"/>
         <source>PX4 log file (*.px4log)</source>
-        <translation type="unfinished">PX4 log file (*.px4log)</translation>
+        <translation>Журнал PX4 (*.px4log)</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="77"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">All Files (*)</translation>
+        <translation>Все файлы (*)</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="95"/>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="103"/>
         <source>Select image directory</source>
-        <translation type="unfinished">Select image directory</translation>
+        <translation>Выбрать папку с изображениями</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="122"/>
         <source>(Optionally) Select save directory</source>
-        <translation type="unfinished">(Optionally) Select save directory</translation>
+        <translation>(Опционально) Выбрать папку для сохранения</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="130"/>
         <source>Select save directory</source>
-        <translation type="unfinished">Select save directory</translation>
+        <translation>Папка для сохранения</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="149"/>
         <source>Cancel Tagging</source>
-        <translation type="unfinished">Cancel Tagging</translation>
+        <translation>Отменить привязку</translation>
     </message>
     <message>
         <location filename="../src/AnalyzeView/GeoTagPage.qml" line="149"/>
         <source>Start Tagging</source>
-        <translation type="unfinished">Start Tagging</translation>
+        <translation>Начать привязку</translation>
     </message>
 </context>
 <context>
