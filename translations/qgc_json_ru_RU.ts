@@ -1735,7 +1735,7 @@
         <location filename="../src/Settings/App.SettingsGroup.json"/>
         <source>Fixed Wing,Multi-Rotor,VTOL,Rover,Sub,Mavlink Generic</source>
         <extracomment>.QGC.MetaData.Facts[offlineEditingVehicleClass].enumStrings, </extracomment>
-        <translation>Аппарат с неподвижным крылом,Мультиротор,СВВП,Авто,Подводный аппарат,Mavlink Generic</translation>
+        <translation>Самолет,Мультиротор,СВВП,Колесный,Подводный,Mavlink Generic</translation>
     </message>
     <message>
         <location filename="../src/Settings/App.SettingsGroup.json"/>
