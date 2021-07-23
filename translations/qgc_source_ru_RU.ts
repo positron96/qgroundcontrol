@@ -6798,7 +6798,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="128"/>
         <source>Show Telemetry Log Replay Status Bar</source>
-        <translation type="unfinished">Show Telemetry Log Replay Status Bar</translation>
+        <translation>Показать панель воспроизведения телеметрии</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="139"/>
@@ -6873,7 +6873,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="397"/>
         <source>Missions Do Not Require Takeoff Item</source>
-        <translation type="unfinished">Missions Do Not Require Takeoff Item</translation>
+        <translation>Миссии не требуют элемента &quot;Взлет&quot;</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
@@ -6969,12 +6969,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="264"/>
         <source>RTSP URL</source>
-        <translation type="unfinished">RTSP URL</translation>
+        <translation>RTSP URL</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="275"/>
         <source>TCP URL</source>
-        <translation type="unfinished">TCP URL</translation>
+        <translation>TCP URL</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="285"/>
@@ -6984,7 +6984,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="331"/>
         <source>Disable When Disarmed</source>
-        <translation type="unfinished">Disable When Disarmed</translation>
+        <translation>Выключить в состоянии &quot;Disarmed&quot;</translation>
     </message>
     <message>
         <location filename="../src/ui/preferences/GeneralSettings.qml" line="338"/>
