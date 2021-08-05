@@ -3742,7 +3742,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/comm/BluetoothLink.cc" line="222"/>
         <source>Bluetooth Link Settings</source>
-        <translation>Параметры Bluetooth соединения</translation>
+        <translation>Параметры соединения Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/comm/BluetoothLink.cc" line="224"/>
@@ -7655,7 +7655,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="41"/>
         <source>Value requires a connected vehicle for setup.</source>
-        <translation>Параметр требует подключения к аппарату.</translation>
+        <translation>Настройка параметра требует подключения к аппарату.</translation>
     </message>
     <message>
         <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="89"/>
@@ -15406,7 +15406,7 @@ ROTATION_NONE indicates component points in direction of flight.</source>
     <message>
         <location filename="../src/VehicleSetup/SetupView.qml" line="295"/>
         <source>Parameters</source>
-        <translation>Параматры</translation>
+        <translation>Параметры</translation>
     </message>
 </context>
 <context>
