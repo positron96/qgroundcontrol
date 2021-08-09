@@ -1076,7 +1076,23 @@ GstVideoReceiver::_addVideoSink(GstPad* pad)
 
     gst_bin_add(GST_BIN(_pipeline), _videoSink);
 
-    if(!gst_element_link(_decoder, _videoSink)) {
+
+    GstElement *flip = nullptr;
+    if ((flip = gst_element_factory_make("videoflip", nullptr)) == nullptr) {
+        qCCritical(VideoReceiverLog) << "gst_element_factory_make('videoflip') failed";
+    } else {
+        g_object_set(flip, "method", 2, nullptr);
+        gst_bin_add(GST_BIN(_pipeline), flip);
+        if (!gst_element_link(_decoder, flip)) {
+            qCCritical(VideoReceiverLog) << "gst_element_link(decoder, flip) failed";
+            //gst_object_unref(flip);
+        } else {
+            //_decoder = flip;
+        }
+    }
+
+
+    if(!gst_element_link(flip, _videoSink)) {
         gst_bin_remove(GST_BIN(_pipeline), _videoSink);
         qCCritical(VideoReceiverLog) << "Unable to link video sink";
         if (caps != nullptr) {
